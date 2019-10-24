@@ -13,7 +13,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 # 網路資訊{#network-information}
 
-要查看網路資訊，請按一下 **[!UICONTROL 網路]**。
+要查看網路資訊，請按一下 **[!UICONTROL Network]**。
 
 「網路」畫面會匯總頁面上所有的Adobe Experience cloud解決方案呼叫，並依從左至右的順序顯示。 標準參數會自動標示為好記名稱，並排列成對相同角色的常用參數群組。
 
@@ -25,7 +25,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 >
 >目前，並非所有在解決方案呼叫中傳遞的參數（例如Analytics上下文變數、Target自訂參數或Experience Cloud ID服務客戶ID）都會顯示在網路畫面中。
 
-要查看所有資訊，請選擇「 **[!UICONTROL 全部」]**。
+要查看所有資訊，請選擇 **[!UICONTROL All]**。
 
 您也可以依解決方案篩選資訊。 選擇要查看的解決方案。 您可以同時檢視多個解決方案。 選取的解決方案篩選器會反白顯示。
 
