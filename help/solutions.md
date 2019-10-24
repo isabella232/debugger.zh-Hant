@@ -41,7 +41,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 **連結帳戶（舊版）**
 
-按一 **[!UICONTROL 下「連結帳戶]**」，然後輸入要求的資訊，將Analytics帳戶連結至除錯程式。
+按一 **[!UICONTROL Link Account]**&#x200B;下，然後輸入要求的資訊，將Analytics帳戶連結至除錯程式。
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 使用「目標」標籤可檢視 [Target請求](https://docs.adobe.com/content/help/en/target/using/target-home.html) 或 [](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) Mbox追蹤回應詳細資訊。
 
-按一 **[!UICONTROL 下「請求]**」，然後展開環境以檢視有關Target的資訊。
+按一 **[!UICONTROL Requests]**&#x200B;下，然後展開環境以檢視有關Target的資訊。
 
 ![](assets/target-requests.jpg)
 
-按一 **[!UICONTROL 下清除所有請求]** ，移除目前顯示的請求。 會在發出更多請求時顯示。
+按一 **[!UICONTROL Clear All Requests]** 下以移除目前顯示的請求。 會在發出更多請求時顯示。
 
 您也可以使用「目標」篩選器來啟 [用「MBox追蹤」以用於「目標」除錯](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)。
 
@@ -97,7 +97,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/audience-manager.jpg)
 
-按一 **[!UICONTROL 下清除所有事件]** ，重設顯示的資訊。 新事件將在發生時顯示。
+按一 **[!UICONTROL Clear All Events]** 下以重設顯示的資訊。 新事件將在發生時顯示。
 
 **ID同步**
 
@@ -111,14 +111,14 @@ ID同步是傳入、非同步資料傳輸程式的第一步。 在此步驟中�
 
 使用Advertising cloud標籤來檢視Advertising cloud請求。
 
-按一 **[!UICONTROL 下「請求]**」，然後展開環境以檢視有關Advertising cloud的資訊。
+按一 **[!UICONTROL Requests]**&#x200B;下，然後展開環境以檢視Advertising cloud的相關資訊。
 
-按一 **[!UICONTROL 下清除所有請求]** ，移除目前顯示的請求。 會在發出更多請求時顯示。
+按一 **[!UICONTROL Clear All Requests]** 下以移除目前顯示的請求。 會在發出更多請求時顯示。
 
 ## Experience Cloud ID 服務 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
 使用「Experience Cloud ID服務」標籤來檢視 [Experience Cloud ID服務請求](https://experiencecloud.adobe.com/resources/help/en_US/mcvid/) 。
 
-按一 **[!UICONTROL 下「請求]**」，然後展開環境以檢視有關Experience Cloud ID服務的資訊。
+按一 **[!UICONTROL Requests]**&#x200B;下，然後展開環境以檢視Experience Cloud ID服務的相關資訊。
 
-按一 **[!UICONTROL 下清除所有請求]** ，移除目前顯示的請求。 會在發出更多請求時顯示。
+按一 **[!UICONTROL Clear All Requests]** 下以移除目前顯示的請求。 會在發出更多請求時顯示。
