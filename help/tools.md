@@ -17,7 +17,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/tools.jpg)
 
-您可以在任何頁面上動態插入啟動或DTM，以測試未安裝啟動或DTM的頁面上的內容。 按一下「 **[!UICONTROL 內嵌代碼]** 」圖示，然後輸入您 [的內嵌代碼](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ，然後按一 **[!UICONTROL 下「儲存]**」。
+您可以在任何頁面上動態插入啟動或DTM，以測試未安裝啟動或DTM的頁面上的內容。 按一下 **[!UICONTROL Embed Code]** 圖示，然後輸入您 [的內嵌代碼](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) ，然後按一下 **[!UICONTROL Save]**。
 
 ![](assets/tools-embedcode.jpg)
 
