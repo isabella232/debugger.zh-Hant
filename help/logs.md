@@ -22,4 +22,4 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ![](assets/logs.jpg)
 
-某些DTM記錄檔項目的訊息中包含「顯示程式碼」選項。 按一 **[!UICONTROL 下「顯示程式碼]** 」以檢視判斷規則是否應觸發的條件式程式碼。
+某些DTM記錄檔項目的訊息中包含「顯示程式碼」選項。 按一 **[!UICONTROL Show Code]** 下可檢視決定規則是否應觸發的條件程式碼。
