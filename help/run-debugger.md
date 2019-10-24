@@ -23,7 +23,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 此畫面會顯示頁面的縮圖，以及頁面的URL和標題。 此外，還會顯示每個Adobe Experience cloud解決方案的相關資訊。 顯示的資訊視解決方案而異，但通常包含的資訊包括解決方案程式庫和版本（例如「AppMeasurement v2.9」）和帳戶識別碼（例如Analytics報表套裝ID、Target用戶端代碼、Audience Manager合作夥伴ID等）
 
-視窗頂端標籤旁的藍色數字顯示已進行的伺服器呼叫數。 您可以按一下個別標籤中的「清 **[!UICONTROL 除所有請求]** 」，將這些重設為零。
+視窗頂端標籤旁的藍色數字顯示已進行的伺服器呼叫數。 您可以按一下個別標籤中的，將 **[!UICONTROL Clear All Requests]** 這些值重設為零。
 
 例如，下圖顯示有關Adobe Target的資訊。 請注意，若要在不進行驗證的情況下公開下列活動詳細資料，您必須在程式碼或標籤管理員中實作「除錯」事件接聽程式，並在Target UI中開啟必 [要的回應](https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html) Token。
 
@@ -31,7 +31,7 @@ source-git-commit: 3fd50cde86f0dfc5f66d8faf63112adf24beeac0
 
 ## 在Auditor中運行審計 {#section-82bc57440406461ebf27a16855b71655}
 
-您可以使用Adobe Auditor在您的頁面上執行一連串的稽核。 要運行Auditor，請按一下頂 **[!UICONTROL 部菜單中的]** Auditor ，然後按一下 **[!UICONTROL Audit Page Now]**。 若要開啟Adobe Auditor，請按一 **[!UICONTROL 下「立即執行多頁稽核」]**。
+您可以使用Adobe Auditor在您的頁面上執行一連串的稽核。 要運行Auditor，請按一下頂 **[!UICONTROL Auditor]** 部菜單中的，然後按一下 **[!UICONTROL Audit Page Now]**。 若要開啟Adobe Auditor，請按一下 **[!UICONTROL Run Multi-Page Audit Now]**。
 
 ## 除錯程式中顯示的資訊 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
