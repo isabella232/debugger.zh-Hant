@@ -1,6 +1,6 @@
 ---
 source-git-commit: a29fa566513ef1b69e3b0b4be1d4cb2c22c72fe1
-translation-type: tm+mt
+translation-type: ht
 
 ---
 # 貢獻
@@ -36,4 +36,4 @@ submitting a pull request!
 
 ## 安全性問題
 
-安全性問題不應透過此問題追蹤器舉報。請改[向我們的安全性專家提報問題](https://helpx.adobe.com/security/alertus.html)
+安全性問題不應透過此問題追蹤器舉報。請改[向我們的安全性專家提報問題](https://helpx.adobe.com/tw/security/alertus.html)
