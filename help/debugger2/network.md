@@ -6,7 +6,7 @@ seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 translation-type: tm+mt
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+source-git-commit: 2c3d056451c5b7b4bf5603c22bf3bbdbc693491f
 
 ---
 
@@ -19,7 +19,7 @@ To view Network information, click **[!UICONTROL Network]**.
 
 ![](assets/network.jpg)
 
-此螢幕對於確認整合使用的參數（例如Experience cloud訪客ID或補充資料ID）在整合中是否一致很有用。
+此螢幕對於比較點擊的索引鍵值配對非常有用。 您可以確認用於整合的參數（例如Experience cloud訪客ID或補充資料ID）在整合時是否一致。
 
 >[!NOTE]
 >
