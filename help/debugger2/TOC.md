@@ -1,11 +1,11 @@
 ---
 cloud: experience-cloud
 product: experience cloud
-sub-product: experience cloud debugger
+sub-product: experience cloud debugger 2.0
 audience: end-user
-user-guide-title: Experience Cloud Debugger Help
+user-guide-title: Experience Cloud Debugger 2.0 Help
 translation-type: tm+mt
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+source-git-commit: 5fcaa00d09e5563b8bcb5d81606f40b847dd1e49
 
 ---
 
@@ -15,8 +15,9 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 + [Adobe Experience Cloud Debugger 擴充功能](experience-cloud-debugger.md)
 + [發行說明](release-notes.md)
 + [安裝 Experience Cloud Debugger](install-debugger.md)
-+ [摘要畫面](run-debugger.md)
-+ [網路資訊](network.md)
-+ [工具](tools.md)
++ [摘要畫面](summary.md)
++ [解決方案](solutions.md)
 + [記錄檔](logs.md)
-+ [解決方案標籤](solutions.md)
++ [網路資訊](network.md)
++ [事件](events.md)
++ [Auditor](auditor.md)
