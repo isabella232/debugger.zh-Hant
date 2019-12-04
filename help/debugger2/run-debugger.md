@@ -4,12 +4,12 @@ description: Adobe Debugger中摘要畫面的說明
 keywords: debugger;experience cloud debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 translation-type: tm+mt
-source-git-commit: c2f512f5451befbdb7aa39ac3f17a89a8c52a55f
+source-git-commit: b4a4b74f3c60b88881fe90411826e8194f4a4f2c
 
 ---
 
 
-# 摘要畫面{#summary-screen}
+# 摘要畫面 {#summary-screen}
 
 若要執行 Experience Cloud Debugger，請按一下擴充功能列中的擴充功能圖示，然後在 Chrome 中開啟您要檢查的頁面。
 
