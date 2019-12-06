@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ---
@@ -17,7 +17,7 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 ![](assets/tools.jpg)
 
-您可以在任何頁面上動態插入 Launch 或 DTM，以測試頁面上未安裝 Launch 或 DTM 的某個項目。Click the **[!UICONTROL Embed Code]** icon, then type your [embed code](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html) and click **[!UICONTROL Save]**.
+您可以在任何頁面上動態插入 Launch 或 DTM，以測試頁面上未安裝 Launch 或 DTM 的某個項目。按一下「**[!UICONTROL Embed Code]**」圖示，然後輸入您的[內嵌程式碼](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html)，並按一下「**[!UICONTROL Save]**」。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -70,7 +70,7 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
   </tr> 
   <tr> 
    <td colname="col1"> <p>停用 Target </p> </td> 
-   <td colname="col2"> <p>此工具會將名稱為 <span class="codeph">mboxDisable=true</span> 的 Cookie 新增至瀏覽器，以停用所有 Target 要求。 </p> <p> 此工具需要使用 at.js 0.9.6+。如果您使用的是舊版，您可以將 <span class="codeph">?mboxDisable=true</span> 查詢字串參數新增至 URL 以停用 mbox。 </p> </td> 
+   <td colname="col2"> <p>此工具會將名稱為 <span class="codeph">mboxDisable=true</span> 的 Cookie 新增至瀏覽器，以停用所有 Target 請求。 </p> <p> 此工具需要使用 at.js 0.9.6+。如果您使用的是舊版，您可以將 <span class="codeph">?mboxDisable=true</span> 查詢字串參數新增至 URL 以停用 mbox。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p> Mbox 強調顯示 </p> </td> 
