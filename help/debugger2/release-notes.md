@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 發行說明
 title: 發行說明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
 
 ---
@@ -119,7 +119,7 @@ source-git-commit: 28e5681a3a2f58350348d4b9bc5b7e1bd979e749
    <td colname="col1"> <p>Target 增強功能 </p> </td> 
    <td colname="col2"> <p> 
      <ul id="ul_5FCD61733462495D8FB421DE7C813001"> 
-      <li id="li_2E8E9AAE5D0D41DC8C42592AFDFA3377">新增 Target 要求的效能計時功能。 </li> 
+      <li id="li_2E8E9AAE5D0D41DC8C42592AFDFA3377">新增 Target 請求的效能計時功能。 </li> 
       <li id="li_98A56E71D72542D694A76DF84CE26AFA">擷取 adobe.target.trackEvent </li> 
      </ul> </p> </td> 
   </tr> 
