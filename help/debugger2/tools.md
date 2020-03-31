@@ -5,13 +5,17 @@ seo-description: 'null'
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
+translation-type: tm+mt
+source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
 
 ---
 
 
 # 工具{#tools}
+
+> [!IMPORTANT]
+>
+> Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
 
 在工具畫面上，您可以啟用或停用已安裝解決方案的各種工具。例如，您可以開啟 Target 的主控台除錯陳述式或使用 DTM 中繼程式庫。只有在頁面上已安裝 Target 和 DTM 時，才能使用這些工具。
 
@@ -81,4 +85,4 @@ source-git-commit: b9147536b8312599dd3144cac31dea9f0f1c3625
 
 以下影片說明如何將 Debugger 擴充功能與 Adobe Target 搭配使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
