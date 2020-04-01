@@ -5,8 +5,8 @@ seo-description: 'null'
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 9bb030d94db1a1e70ecda3d62caf542d7f750317
 
 ---
 
@@ -17,7 +17,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ![](assets/tools.jpg)
 
-您可以在任何頁面上動態插入 Launch 或 DTM，以測試頁面上未安裝 Launch 或 DTM 的某個項目。按一下「**[!UICONTROL Embed Code]**」圖示，然後輸入您的[內嵌程式碼](https://experiencecloud.adobe.com/resources/help/en_US/dtm/deployment.html)，並按一下「**[!UICONTROL Save]**」。
+您可以在任何頁面上動態插入 Launch 或 DTM，以測試頁面上未安裝 Launch 或 DTM 的某個項目。按一下「**[!UICONTROL Embed Code]**」圖示，然後輸入您的[內嵌程式碼](https://docs.adobe.com/content/help/en/dtm/using/client-side/deployment.html)，並按一下「**[!UICONTROL Save]**」。
 
 ![](assets/tools-embedcode.jpg)
 
@@ -81,4 +81,4 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 以下影片說明如何將 Debugger 擴充功能與 Adobe Target 搭配使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
