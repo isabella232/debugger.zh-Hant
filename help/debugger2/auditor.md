@@ -4,16 +4,16 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;auditor;
 seo-description: 'null'
 title: Auditor
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # Auditor{#auditor}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
 
 您可以使用 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html)，透過 Auditor 畫面在您的頁面上執行一連串的稽核作業。
 
