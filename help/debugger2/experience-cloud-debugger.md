@@ -6,22 +6,22 @@ seo-title: Adobe Experience Platform Debugger Chrome和Firefox Extension
 title: Adobe Experience Platform Debugger Extension
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # （測試版）Adobe Experience Platform Debugger 2.0 {#adobe-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
 
-The [Adobe Experience Platform Debugger for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
+The [Adobe Experience Platform Debugger for Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) and [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/adobe-experience-platform-dbg/) examines your web pages and helps you find problems with how your Experience Cloud solutions are implemented.
 
 將Adobe Experience Platform Debugger與其他Adobe啟動解決方案搭配使用，以進行類似下列的工作流程：
 
-1. 使用 [Launch](https://docs.adobe.com/content/help/en/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/en/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) 解決方案的程式碼。
+1. 使用 [Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html) 解決方案的程式碼。
 
 1. 使用 [Adobe Cloud Platform Auditor](https://experiencecloud.adobe.com/resources/help/en_US/auditor/) 測試您的實作成果。
 1. 使用Adobe Experience Platform Debugger對Auditor發現的問題進行除錯，或檢查您實作的其他資訊。
