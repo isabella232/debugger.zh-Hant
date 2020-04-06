@@ -6,21 +6,21 @@ seo-title: 安裝 Experience Cloud Debugger
 title: 安裝 Experience Cloud Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 translation-type: tm+mt
-source-git-commit: 3b2fd709419b40e0503baef9a39128ddbf4875b3
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 安裝Adobe Experience Platform Debugger{#install-experience-platform-debugger}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
 
 下載並安裝Adobe Experience Platform Debugger。
 
 * **Chrome**：從 [Chrome 擴充功能頁面](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox**：從 [Firefox 附加元件頁面](https://addons.mozilla.org/en-US/firefox/addon/adobe-experience-platform-dbg/)
+* **Firefox**：從 [Firefox 附加元件頁面](https://addons.mozilla.org/zh-TW/firefox/addon/adobe-experience-platform-dbg/)
 
 安裝Chrome擴充功能或Firefox附加元件後，擴充功能列會新增一個圖示：
 
