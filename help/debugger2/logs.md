@@ -6,16 +6,16 @@ seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 translation-type: tm+mt
-source-git-commit: dc723f0848c56794e9a1a6eda405de2f4ea6b8fa
+source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
 
 
 # 記錄檔{#logs}
 
-> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
 
 「記錄檔」畫面提供DTM、Launch和AEP Web SDK實作的特定資訊。 您不需要啟用 DTM 適用的主控台除錯工具，即可顯示此資訊。您可以透過解決方案的相關聯 工具，依已實作的解決方案進行篩選。
 
