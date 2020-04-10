@@ -4,7 +4,7 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;events;d
 seo-description: 'null'
 seo-title: 事件
 title: 事件
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -14,7 +14,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0 目前仍在測試階段。文件和功能可能會有所變更。
 
 「事件」畫面會以圖形化方式呈現所發生的事件，將事件顯示在時間軸上。
 
