@@ -5,7 +5,7 @@ seo-description: 使用 Adobe Debugger 中的解決方案標籤
 seo-title: Adobe Debugger 中的解決方案標籤
 title: 解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0 目前仍在測試階段。文件和功能可能會有所變更。
 
 按一下解決方案，即可查看特定 Adobe Experience Cloud 解決方案的結果。
 
@@ -31,7 +31,7 @@ Analytics 畫面會提供您 [Analytics](https://docs.adobe.com/content/help/zh-
 
 ## Target {#section-988873ba5ede4317953193bd7ac5474c}
 
-使用「目標」畫面可檢視 [Target](https://docs.adobe.com/content/help/zh-Hant/target/using/target-home.html) 請求<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->。
+使用 Target 畫面檢視 [Target](https://docs.adobe.com/content/help/zh-Hant/target/using/target-home.html) 請求<!-- or [Mbox Trace](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html) response details-->。
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
@@ -39,7 +39,7 @@ Analytics 畫面會提供您 [Analytics](https://docs.adobe.com/content/help/zh-
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Launch 區段可供檢視 Launch 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中編輯、替換或新增更多內嵌程式碼。如果您登入，您可以使用下拉式清單選取替代屬性。
+Launch 區段可供檢視 Launch 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Debugger 中編輯、替換或新增更多內嵌程式碼。登入的話，可以使用下拉式選單選取替代屬性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
