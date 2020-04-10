@@ -5,7 +5,7 @@ seo-description: 'null'
 seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 ---
@@ -15,7 +15,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0目前正在測試中。 說明檔案和功能可能會有所變更。
+>Adobe Experience Cloud Debugger 2.0 目前仍在測試階段。文件和功能可能會有所變更。
 
 若要檢視網路資訊，請按一下「**[!UICONTROL Network]**」。
 
@@ -29,7 +29,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 >
 >目前並非解決方案呼叫中傳遞的所有參數 (例如 Analytics 內容變數、Target 自訂參數或 Experience Cloud ID 服務客戶 ID) 都會顯示在網路畫面中。
 
-若要依解決方案變更資訊，請從左側導覽的清單中選取您要檢視的解決方案。 篩選下列範例以僅顯示 Analytics：
+若要依解決方案變更資訊，請從左側導覽的清單中選取您要檢視的解決方案。篩選下列範例以僅顯示 Analytics：
 
 ![](assets/network-analytics.jpg)
 
