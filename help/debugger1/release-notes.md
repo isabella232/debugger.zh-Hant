@@ -5,8 +5,8 @@ seo-description: 'null'
 seo-title: 發行說明
 title: 發行說明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: de5a56677aade8d3cec0e3d6bf82d4f66d259bb1
 
 ---
 
@@ -219,7 +219,7 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
   </tr> 
   <tr> 
    <td colname="col1"> <p>更新頁尾的說明連結 </p> </td> 
-   <td colname="col2"> <p>將頁尾的說明連結更新為 <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/" format="https" scope="external"> https://marketing.adobe.com/resources/help/en_US/experience-cloud-debugger/</a> </p> </td> 
+   <td colname="col2"> <p>將頁尾中的說明連結更新至 <a href="https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html" format="https" scope="external"> https://docs.adobe.com/content/help/en/debugger/using/experience-cloud-debugger.html</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
