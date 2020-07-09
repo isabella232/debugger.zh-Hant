@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: 摘要畫面
 title: 摘要畫面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +30,7 @@ Adobe Experience Platform Debugger 的「摘要」畫面會隨即顯示。
 
 此畫面會顯示各種 Adobe Experience Cloud 解決方案的相關資訊。顯示的資訊會依解決方案而異，但通常包括解決方案程式庫和版本 (例如「AppMeasurement 2.9 版」) 和帳戶 ID (例如 Analytics 報表套裝 ID、Target 用戶端代碼、Audience Manager 合作夥伴 ID 等) 的相關資訊。
 
-## Debugger 中顯示的資訊 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Debugger 中顯示的資訊
 
 以下是 Debugger 會針對各個解決方案顯示的資訊：
 
@@ -83,19 +86,19 @@ Adobe Experience Platform Debugger 的「摘要」畫面會隨即顯示。
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名稱 </p> </td> 
-   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobelaunch.com/administration/companies-and-properties" format="https" scope="external">屬性</a>名稱 </p> </td> 
+   <td colname="col2"> <p>Adobe Launch <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">屬性</a>名稱 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p><a href="https://developer.adobelaunch.com/guides/extensions/turbine-free-variable/" format="https" scope="external">Turbine</a> 版本 </p> </td> 
+   <td colname="col2"> <p>Turbine 版本</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>建置日期 </p> </td> 
-   <td colname="col2"> <p>Launch<a href="https://docs.adobelaunch.com/publishing/libraries" format="https" scope="external"> 程式庫</a>建置日期 </p> </td> 
+   <td colname="col2"> <p>Launch<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/libraries.html" format="https" scope="external"> 程式庫</a>建置日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>Launch 程式庫使用的<a href="https://docs.adobelaunch.com/administration/environments" format="https" scope="external">環境</a> </p> </td> 
+   <td colname="col2"> <p>Launch 程式庫使用的<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>擴充功能 </p> </td> 
