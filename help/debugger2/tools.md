@@ -5,8 +5,11 @@ seo-description: 'null'
 seo-title: 工具
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 5a84797bda8c29f1e691de418c9837c76a63c17f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -70,7 +73,7 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
   </tr> 
   <tr> 
    <td colname="col1"> <p> 啟用 Mbox 追蹤 </p> </td> 
-   <td colname="col2"> <p>此工具會將詳細資訊新增至 Target 回應，您可在 Debugger 的 <span class="uicontrol">Target &gt; Mbox 追蹤</span>畫面中探索相關資訊。 </p> <p> 您必須先在其中一個 Chrome 分頁中登入 Experience Cloud 才能啟用此工具。 </p> </td> 
+   <td colname="col2"> <p>此工具會將詳細資訊新增至 Target 回應，您可在 Debugger 的 <span class="uicontrol">Target &gt; Mbox 追蹤</span>畫面中探索相關資訊。 </p> <p> 您必須登入其中一個Chrome標籤中的Experience Cloud才能啟用此工具。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>停用 Target </p> </td> 
@@ -85,4 +88,4 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 以下影片說明如何將 Debugger 擴充功能與 Adobe Target 搭配使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
