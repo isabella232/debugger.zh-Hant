@@ -6,7 +6,7 @@ seo-title: Adobe Experience Platform Debugger Chrome 與 Firefox 擴充功能
 title: Adobe Experience Platform Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 translation-type: tm+mt
-source-git-commit: 3a5b0b6d2d7dc18113c5909b878c882cf803bba6
+source-git-commit: 64506a22964d68bfec84404b870c8432b0ff374c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 ## 教學課程影片
 
-[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32156?quality=12&learn=on)
