@@ -5,11 +5,11 @@ seo-description: 'null'
 seo-title: 摘要畫面
 title: 摘要畫面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f35d87473f9e1e26f9a27272d7930472cc01c188
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '940'
+ht-degree: 100%
 
 ---
 
@@ -167,7 +167,7 @@ Adobe Experience Platform Debugger 的「摘要」畫面會隨即顯示。
   </tr> 
   <tr> 
    <td colname="col1"> <p>全域請求名稱 </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/help/zh-Hant/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">全域 mbox</a>是指 Target 實作中各網頁頂端所發出的單一伺服器呼叫 </p> </td> 
+   <td colname="col2"> <p><a href="https://docs.adobe.com/help/zh-Hant/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">全域 mbox</a> 是指 Target 實作中各網頁頂端所發出的單一伺服器呼叫 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>頁面載入事件 </p> </td> 
