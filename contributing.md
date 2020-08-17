@@ -1,11 +1,14 @@
 ---
-source-git-commit: a29fa566513ef1b69e3b0b4be1d4cb2c22c72fe1
-translation-type: ht
+source-git-commit: 66d296edea6f82bacc167db1291a466f2a7a2701
+workflow-type: tm+mt
+translation-type: tm+mt
+source-wordcount: '281'
+ht-degree: 100%
 
 ---
 # 貢獻
 
-感謝您願意貢獻內容!
+感謝您願意貢獻內容！
 
 為本專案貢獻內容時應遵循的準則如下。
 
@@ -19,7 +22,7 @@ translation-type: ht
 
 ## 貢獻者授權協議 (CLA)
 
-本專案的所有第三方貢獻者均須簽署貢獻者授權合約。如此 Adobe 才能在專案中二次使用您貢獻的內容。[敬請簽署我們的 CLA](http://opensource.adobe.com/cla.html)。Adobe CLA 只需提交一次，因此若您先前已提交過 Adobe CLA，您現在可以開始貢獻內容了!
+本專案的所有第三方貢獻者均須簽署貢獻者授權合約。如此 Adobe 才能在專案中二次使用您貢獻的內容。[敬請簽署我們的 CLA](https://opensource.adobe.com/cla.html)。Adobe CLA 只需提交一次，因此若您先前已提交過 Adobe CLA，您現在可以開始貢獻內容了!
 
 ## 程式碼審核
 
