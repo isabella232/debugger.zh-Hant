@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud除錯程式記錄畫面
 keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: 'null'
+seo-description: Experience Cloud除錯程式記錄畫面
 seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '92'
+ht-degree: 89%
 
 ---
 
@@ -22,4 +25,4 @@ source-git-commit: d7a54ea531ac09ea6bee356e47a1da835b3880e8
 
 ![](assets/logs.jpg)
 
-某些 DTM 記錄項目在其訊息中包含顯示程式碼選項。按一下「**[!UICONTROL Show Code]**」以檢視條件式程式碼，決定是否應引發規則。
+某些 DTM 記錄項目在其訊息中包含顯示程式碼選項。按一下「**[!UICONTROL Show Code]**」即可檢視條件式程式碼，決定是否應引發規則。
