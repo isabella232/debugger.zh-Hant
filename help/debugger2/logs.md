@@ -1,12 +1,15 @@
 ---
-description: 'null'
+description: Experience Cloud除錯程式記錄畫面
 keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: 'null'
+seo-description: Experience Cloud除錯程式記錄畫面
 seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
+translation-type: tm+mt
+source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 93%
 
 ---
 
@@ -23,18 +26,18 @@ source-git-commit: 3dc1876c0516b7a81f68a207c6a1651bc95b17ab
 
 「記錄檔」畫面會以四欄顯示資訊：
 
-**[!UICONTROL Solutions]：**顯示受記錄項目影響的 Experience Cloud 解決方案圖示。將滑鼠指標暫留在圖示上即可取得文字說明。
+**[!UICONTROL Solutions]：**&#x200B;顯示受記錄項目影響的 Experience Cloud 解決方案圖示。將滑鼠指標暫留在圖示上即可取得文字說明。
 
-**[!UICONTROL Occurred at]：**顯示工作階段期間發生的記錄問題。
+**[!UICONTROL Occurred at]：**&#x200B;顯示工作階段期間發生的記錄問題。
 
-**[!UICONTROL Log level]：**顯示問題的嚴重程度。嚴重程度會是以下任一項：
+**[!UICONTROL Log level]：**&#x200B;顯示問題的嚴重程度。嚴重程度會是以下任一項：
 
 * 記錄檔
 * 資訊
 * 警告
 * 錯誤
 
-**[!UICONTROL Log message]：**說明問題。
+**[!UICONTROL Log message]：**&#x200B;說明問題。
 
 某些記錄檔訊息包含「顯示代碼」選項。按一下「**[!UICONTROL Show Code]**」即可檢視條件式程式碼，決定是否應引發規則。
 
