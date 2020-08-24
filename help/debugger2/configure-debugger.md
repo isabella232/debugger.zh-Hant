@@ -1,14 +1,14 @@
 ---
-description: 如何設定Experience Cloud除錯程式
+description: 如何設定 Experience Cloud Debugger
 keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: 如何設定Experience Cloud除錯程式
+seo-description: 如何設定 Experience Cloud Debugger
 seo-title: 設定 Experience Cloud Debugger
 title: 設定 Experience Cloud Debugger
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 92%
+source-wordcount: '161'
+ht-degree: 91%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 92%
 
 ## 淺色或深色模式
 
-Debugger 開啟後，您可以前往「****」選取**「深色模式」**(預設值) 或**「淺色模式」**，以使用您偏好的外觀。
+Debugger 開啟後，您可以前往「**[!UICONTROL Settings]**」選取&#x200B;**「深色模式」**(預設值) 或&#x200B;**「淺色模式」**，以使用您偏好的外觀。
 
 ## 重設
 
-按一下&#x200B;**[!UI 「重設所有資料和設定」]**&#x200B;返回，以清除所有資料並回到預設設定。
+按一 **[!UICONTROL Reset all Data and Settings]** 下可返回清除所有資料並返回預設設定。
 
 ## 將 Debugger 鎖定在單一頁面
 
