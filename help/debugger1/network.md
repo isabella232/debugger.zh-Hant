@@ -1,15 +1,15 @@
 ---
-description: 「Experience Cloud除錯程式網路資訊」畫面
+description: Experience Cloud Debugger 網路資訊畫面
 keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
-seo-description: 「Experience Cloud除錯程式網路資訊」畫面
+seo-description: Experience Cloud Debugger 網路資訊畫面
 seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '217'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 >
 >目前並非解決方案呼叫中傳遞的所有參數 (例如 Analytics 內容變數、Target 自訂參數或 Experience Cloud ID 服務客戶 ID) 都會顯示在網路畫面中。
 
-若要檢視所有資訊，請選取 **[!UICONTROL All]**。
+若要檢視所有資訊，請選取「**[!UICONTROL All]**」。
 
 您也可以依解決方案篩選資訊。選取您要檢視的解決方案。您可以同時檢視多個解決方案。系統會強調顯示選取的解決方案篩選器。
 
