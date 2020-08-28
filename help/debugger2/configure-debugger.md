@@ -4,11 +4,11 @@ keywords: debugger;experience cloud debugger extension;chrome;extension;configur
 seo-description: 如何設定 Experience Cloud Debugger
 seo-title: 設定 Experience Cloud Debugger
 title: 設定 Experience Cloud Debugger
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Debugger 開啟後，您可以前往「**[!UICONTROL Settings]**」選取&#x200B
 
 ## 重設
 
-按一 **[!UICONTROL Reset all Data and Settings]** 下可返回清除所有資料並返回預設設定。
+按一下「**[!UICONTROL Reset all Data and Settings]**」可返回清除所有資料，並恢復預設設定。
 
 ## 將 Debugger 鎖定在單一頁面
 
