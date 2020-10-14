@@ -1,15 +1,15 @@
 ---
-description: Experience Cloud Debugger 記錄畫面
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
-seo-description: Experience Cloud Debugger 記錄畫面
+description: 「Experience Platform Debugger Logs」畫面
+keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+seo-description: 「Experience Platform Debugger Logs」畫面
 seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: ht
-source-wordcount: '153'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 88%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 目前仍在測試階段。文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
 
 「記錄檔」畫面會提供 DTM、Launch 和 AEP Web SDK 實作的專屬資訊。您不需要啟用 DTM 適用的主控台除錯工具，即可顯示此資訊。您可以透過解決方案的相關聯工具，依已實作的解決方案加以篩選。
 
