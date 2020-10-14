@@ -1,14 +1,14 @@
 ---
-description: 如何設定 Experience Cloud Debugger
-keywords: debugger;experience cloud debugger extension;chrome;extension;configure
-seo-description: 如何設定 Experience Cloud Debugger
-seo-title: 設定 Experience Cloud Debugger
-title: 設定 Experience Cloud Debugger
-translation-type: ht
-source-git-commit: 7d6f4446560e9d0fb353f60139cea26e61e19f99
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+description: 如何設定Experience Platform Debugger
+keywords: debugger;experience platform debugger extension;chrome;extension;configure
+seo-description: 如何設定Experience Platform Debugger
+seo-title: 設定Experience Platform除錯程式
+title: 設定Experience Platform除錯程式
+translation-type: tm+mt
+source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 35%
 
 ---
 
@@ -17,23 +17,23 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Adobe Experience Cloud Debugger 2.0 目前仍在測試階段。文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
 
-您可以調整 Debugger 外觀和運作方式的某些設定。
+您可以設定Experience Platform Debugger外觀和運作方式的某些方面。
 
 ![](assets/settings.jpg)
 
 ## 淺色或深色模式
 
-Debugger 開啟後，您可以前往「**[!UICONTROL Settings]**」選取&#x200B;**「深色模式」**(預設值) 或&#x200B;**「淺色模式」**，以使用您偏好的外觀。
+After Experience Platform Debugger opens, you can select your preferred appearance by going to **[!UICONTROL Settings]** and selecting either **Dark Mode** (default) or **Light Mode**.
 
 ## 重設
 
 按一下「**[!UICONTROL Reset all Data and Settings]**」可返回清除所有資料，並恢復預設設定。
 
-## 將 Debugger 鎖定在單一頁面
+## 將Experience Platform除錯程式鎖定在單一頁面
 
-當您變更網站頁面後，Debugger 視窗會隨之更新，顯示該頁面的資訊。畫面底部會顯示您所連線的頁面名稱。若要將 Debugger 鎖定在單一頁面，請按一下 Debugger 視窗右下角的「**[!UICONTROL Lock]**」。
+當您變更網站頁面時，「Experience Platform Debugger」視窗會更新，以顯示該頁面的資訊。 畫面底部會顯示您所連線的頁面名稱。To keep Experience Platform Debugger locked on one page, click **[!UICONTROL Lock]** in the bottom right corner of the Experience Platform Debugger window.
 
 ![](assets/lock.jpg)
 
