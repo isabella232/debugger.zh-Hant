@@ -3,11 +3,11 @@ description: About Experience Platform Auditor 簡介
 keywords: debugger;experience platform debugger extension;chrome;extension;auditor;dtm;target
 seo-description: About Experience Platform Auditor 簡介
 title: Auditor
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 90%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
 您可以使用 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/zh-Hant/auditor/using/overview.html)，透過 Auditor 畫面在您的頁面上執行一連串的稽核作業。
 
