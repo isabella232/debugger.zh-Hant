@@ -1,15 +1,15 @@
 ---
-description: 如何安裝Experience Platform Debugger
+description: 如何安裝 Experience Platform Debugger
 keywords: debugger;experience Platform Debugger extension;chrome;extension;install
-seo-description: 如何安裝Experience Platform Debugger
-seo-title: 安裝Experience Platform Debugger
-title: 安裝Experience Platform Debugger
+seo-description: 如何安裝 Experience Platform Debugger
+seo-title: 安裝 Experience Platform Debugger
+title: 安裝 Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 63%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
 下載並安裝 Adobe Experience Platform Debugger。
 
@@ -29,5 +29,5 @@ ht-degree: 63%
 
 ![](assets/start-icon.jpg)
 
-按一下圖示以啟動Experience Platform Debugger。
+按一下圖示即可啟動 Experience Platform Debugger。
 
