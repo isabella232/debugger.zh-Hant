@@ -1,14 +1,14 @@
 ---
-description: Experience Platform除錯程式事件畫面
+description: Experience Platform Debugger 事件畫面
 keywords: debugger;experience platform debugger extension;chrome;extension;events;dtm;target
-seo-description: Experience Platform除錯程式事件畫面
+seo-description: Experience Platform Debugger 事件畫面
 seo-title: 事件
 title: 事件
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
 「事件」畫面會以圖形化方式呈現所發生的事件，將事件顯示在時間軸上。
 
 ![](assets/events.jpg)
 
-時間軸上會對應每個事件，顯示適用的 解決方案圖示。圖示也會顯示資料層的變更情形 (若已啟用)。將滑鼠指標停留在圖示上，即可查看事件摘要。按一下事件即可取得詳細資訊。您可以按住 Shift 或 Control 鍵並按一下，以檢視多個事件。
+時間軸上會對應每個事件，顯示適用的解決方案圖示。圖示也會顯示資料層的變更情形 (若已啟用)。將滑鼠指標停留在圖示上，即可查看事件摘要。按一下事件即可取得詳細資訊。您可以按住 Shift 或 Control 鍵並按一下，以檢視多個事件。
 
 ![](assets/events-details.jpg)
 
