@@ -1,15 +1,15 @@
 ---
-description: 「Experience Platform Debugger網路」畫面
+description: Experience Platform Debugger 網路畫面
 keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
-seo-description: 「Experience Platform Debugger網路」畫面
+seo-description: Experience Platform Debugger 網路畫面
 seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '227'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
 若要檢視網路資訊，請按一下「**[!UICONTROL Network]**」。
 
