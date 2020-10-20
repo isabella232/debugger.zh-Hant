@@ -1,15 +1,15 @@
 ---
-description: 使用Adobe Experience Platform Debugger中的「解決方案」標籤
+description: 使用 Adobe Experience Platform Debugger 中的解決方案標籤
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
-seo-description: '使用Adobe Experience Platform Debugger中的「解決方案」標籤 '
-seo-title: 'Adobe Experience Platform Debugger中的解決方案標籤 '
+seo-description: '使用 Adobe Experience Platform Debugger 中的解決方案標籤 '
+seo-title: 'Adobe Experience Platform Debugger 中的解決方案標籤 '
 title: 解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 82%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
 按一下解決方案，即可查看特定 Adobe Experience Cloud 解決方案的結果。
 
@@ -42,7 +42,7 @@ Analytics 畫面會提供您 [Analytics](https://docs.adobe.com/content/help/zh-
 
 ## Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-Launch 區段可供檢視 Launch 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在Experience Platform Debugger中編輯、取代或新增更多內嵌代碼。 登入的話，可以使用下拉式選單選取替代屬性。
+Launch 區段可供檢視 Launch 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中編輯、替換或新增更多內嵌程式碼。登入的話，可以使用下拉式選單選取替代屬性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
