@@ -1,15 +1,15 @@
 ---
-description: Experience Platform除錯程式摘要畫面
+description: Experience Platform Debugger 摘要畫面
 keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
-seo-description: Experience Platform除錯程式摘要畫面
+seo-description: Experience Platform Debugger 摘要畫面
 seo-title: 摘要畫面
 title: 摘要畫面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '949'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 
 >[!IMPORTANT]
 >
->Adobe Experience Platform Debugger目前正在測試中。 文件和功能可能會有所變更。
+>Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
 若要執行 Adobe Experience Platform Debugger，請按一下瀏覽器列上的圖示，然後在瀏覽器中開啟您要檢查的頁面。
 
@@ -30,9 +30,9 @@ Adobe Experience Platform Debugger 的「摘要」畫面會隨即顯示。
 
 此畫面會顯示各種 Adobe Experience Cloud 解決方案的相關資訊。顯示的資訊會依解決方案而異，但通常包括解決方案程式庫和版本 (例如「AppMeasurement 2.9 版」) 和帳戶 ID (例如 Analytics 報表套裝 ID、Target 用戶端代碼、Audience Manager 合作夥伴 ID 等) 的相關資訊。
 
-## Experience Platform Debugger中顯示的資訊
+## Experience Platform Debugger 中顯示的資訊
 
-Experience Platform Debugger會針對每個解決方案顯示下列資訊：
+Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
 
 **Adobe Analytics**
 
