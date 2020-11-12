@@ -6,10 +6,10 @@ seo-title: 發行說明
 title: 發行說明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 100%
+source-wordcount: '723'
+ht-degree: 85%
 
 ---
 
@@ -50,12 +50,12 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>Auditor 測試 </p> </td> 
-   <td colname="col2"> <p> 將 <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local">Auditor 測試</a>新增至 Debugger </p> </td> 
+   <td colname="col1"> <p>Adobe Experience Platform Auditor測試 </p> </td> 
+   <td colname="col2"> <p> 已將 <a href="run-debugger.md#section-82bc57440406461ebf27a16855b71655" format="dita" scope="local"> Platform Auditor測試新增至</a> Experience Cloud Debugger </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Adobe Audience Manager </p> </td> 
-   <td colname="col2"> <p>Debugger 現在會顯示 AAM 回應 </p> </td> 
+   <td colname="col2"> <p>Experience Cloud除錯程式現在會顯示AAM回應 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 * 修正頁尾隱藏頁面底部內容的問題
 
-* 更新 Debugger 頁尾
+* 更新Experience Cloud除錯程式頁尾
 * 修正用於 Target 的過時術語問題
 
 ## 0.0.809 版 (2019 年 2 月 28 日) {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
@@ -96,7 +96,7 @@ ht-degree: 100%
 
 * 修正動態插入 Launch 中使用者介面似乎對映至不同內嵌程式碼 (但事實上並非如此) 的問題
 * 修正動態插入 Launch 中繼續顯示不正確 URL 的問題
-* 修正 Debugger 在 Debugger 視窗已關閉時仍繼續取代內嵌程式碼的問題
+* 修正即使Experience Cloud除錯程式視窗關閉，Experience Cloud除錯程式仍會繼續取代內嵌代碼的問題
 
 ## 0.0.806 版 (2018 年 9 月 10 日) {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
@@ -116,7 +116,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td colname="col1"> <p>動態插入 Launch </p> </td> 
-   <td colname="col2"> <p>您可以從工具標籤在任何頁面上動態插入 Launch，以測試頁面上未安裝 Launch 的某個項目。 </p> </td> 
+   <td colname="col2"> <p>從「工具」標籤，您可以在任何頁面上動態插入Adobe Experience Platform Launch，以測試未安裝Platform Launch的頁面上的內容。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Target 增強功能 </p> </td> 
@@ -139,7 +139,7 @@ ht-degree: 100%
 * 修正 Experience Cloud 標籤未更新的問題
 
 * 修正網路標籤的解決方案列顯示「Media Optimizer」(而不是目前的「Advertising Cloud」名稱) 的問題
-* 修正導致 Debugger 在所有頁面上插入 _satellite 的問題
+* 修正Experience Cloud除錯程式在每個頁面上插入_satellite的問題
 
 ## 0.0.803 版 (2018 年 8 月 10 日) {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
@@ -158,8 +158,8 @@ ht-degree: 100%
  </thead>
  <tbody> 
   <tr> 
-   <td colname="col1"> <p>工具標籤上的 Auditor 連結 </p> </td> 
-   <td colname="col2"> <p>新增來自 Debugger 的 Auditor 連結 </p> </td> 
+   <td colname="col1"> <p>「工具」頁籤上的Platform Auditor連結 </p> </td> 
+   <td colname="col2"> <p>從Experience Cloud除錯程式新增平台稽核員的連結 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>已收合的標籤 </p> </td> 
