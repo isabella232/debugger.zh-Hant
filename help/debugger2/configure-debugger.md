@@ -4,10 +4,10 @@ keywords: debugger;experience platform debugger extension;chrome;extension;confi
 seo-description: 如何設定 Experience Platform Debugger
 seo-title: 設定 Experience Platform Debugger
 title: 設定 Experience Platform Debugger
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '172'
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '170'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ## 淺色或深色模式
 
-Experience Platform Debugger 開啟後，您可以前往「**[!UICONTROL Settings]**」選取&#x200B;**「深色模式」**(預設值) 或&#x200B;**「淺色模式」**，以使用您偏好的外觀。
+ Platform Debugger 開啟後，您可以前往「**[!UICONTROL Settings]**」選取&#x200B;**「深色模式」**(預設值) 或&#x200B;**「淺色模式」**，以使用您偏好的外觀。
 
 ## 重設
 
@@ -33,7 +33,7 @@ Experience Platform Debugger 開啟後，您可以前往「**[!UICONTROL Setting
 
 ## 將 Experience Platform Debugger 鎖定在單一頁面
 
-在您變更網站頁面後，Experience Platform Debugger 視窗會隨之更新，顯示該頁面的實際資訊。畫面底部會顯示您所連線的頁面名稱。若要將 Experience Platform Debugger 鎖定在單一頁面，請按一下 Experience Platform Debugger 視窗右下角的「**[!UICONTROL Lock]**」。
+在您變更網站頁面後，Experience Platform Debugger 視窗會隨之更新，顯示該頁面的實際資訊。畫面底部會顯示您所連線的頁面名稱。若要將 Platform Debugger 鎖定在單一頁面，請按一下 Experience Platform Debugger 視窗右下角的「**[!UICONTROL Lock]**」。
 
 ![](assets/lock.jpg)
 
