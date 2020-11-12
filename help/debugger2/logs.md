@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 記錄檔畫面
 seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: ht
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 87%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 >
 >Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
-「記錄檔」畫面會提供 DTM、Launch 和 AEP Web SDK 實作的專屬資訊。您不需要啟用 DTM 適用的主控台除錯工具，即可顯示此資訊。您可以透過解決方案的相關聯工具，依已實作的解決方案加以篩選。
+「記錄檔」畫面提供DTM、Adobe Experience Platform Launch和Adobe Experience Platform Web SDK實作的特定資訊。 您不需要啟用 DTM 適用的主控台除錯工具，即可顯示此資訊。您可以透過解決方案的相關聯工具，依已實作的解決方案加以篩選。
 
 ![](assets/logs.jpg)
 
