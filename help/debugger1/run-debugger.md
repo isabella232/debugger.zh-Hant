@@ -5,18 +5,18 @@ seo-description: 執行 Experience Cloud Debugger
 seo-title: 摘要畫面
 title: 摘要畫面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1047'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 
 # 摘要畫面{#summary-screen}
 
-若要執行Adobe Experience Cloud除錯程式，請按一下擴充列中的擴充功能圖示，然後在Chrome中開啟您要檢查的頁面。
+若要執行 Adobe Experience Cloud Debugger，請按一下擴充功能列中的擴充功能圖示，然後在 Chrome 中開啟您要檢查的頁面。
 
 ![](assets/start-icon.jpg)
 
@@ -32,13 +32,13 @@ ht-degree: 89%
 
 ![](assets/summary-target2.jpg)
 
-## 在Adobe Experience Platform Auditor中執行審核 {#section-82bc57440406461ebf27a16855b71655}
+## 在 Adobe Experience Platform Auditor 中執行稽核 {#section-82bc57440406461ebf27a16855b71655}
 
-您可以使用Plaform Auditor在您的頁面上執行一系列審計。 To run Platform Auditor, click **[!UICONTROL Auditor]** in the top menu, then click **[!UICONTROL Audit Page Now]**. To open Platform Auditor, click **[!UICONTROL Run Multi-Page Audit Now]**.
+您可以使用 Plaform Auditor 在頁面上執行一系列稽核。若要執行 Platform Auditor，請按一下頂端功能表中的「**[!UICONTROL Auditor]**」圖示，然後按一下「**[!UICONTROL Audit Page Now]**」。若要開啟 Platform Auditor，請按一下「**[!UICONTROL Run Multi-Page Audit Now]**」。
 
-## Information shown in Experience Cloud Debugger {#section-88a95ba53dca43d9b96a585e75e5f5cf}
+## Experience Cloud Debugger 中顯示的資訊 {#section-88a95ba53dca43d9b96a585e75e5f5cf}
 
-Experience Cloud除錯程式會針對每個解決方案顯示下列資訊：
+Experience Cloud Debugger 針對各個解決方案顯示的資訊如下：
 
 **頁面資訊**
 
@@ -111,7 +111,7 @@ Experience Cloud除錯程式會針對每個解決方案顯示下列資訊：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名稱 </p> </td> 
-   <td colname="col2"> <p>The name of the Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external"> property</a> </p> </td> 
+   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">屬性</a>名稱 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
@@ -119,15 +119,15 @@ Experience Cloud除錯程式會針對每個解決方案顯示下列資訊：
   </tr> 
   <tr> 
    <td colname="col1"> <p>建置日期 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/libraries.html" format="https" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/libraries.html" format="https" scope="external"> 程式庫</a>建置日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>The <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/environments.html" format="https" scope="external"> environment</a> used by the Platform Launch library </p> </td> 
+   <td colname="col2"> <p>Platform Launch 程式庫使用的<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>指令碼目錄 </p> </td> 
-   <td colname="col2"> <p>Platform Launch指令碼的儲存目錄 </p> </td> 
+   <td colname="col2"> <p>儲存 Platform Launch 指令碼的所在目錄 </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -146,7 +146,7 @@ Experience Cloud除錯程式會針對每個解決方案顯示下列資訊：
   </tr> 
   <tr> 
    <td colname="col1"> <p>建置日期 </p> </td> 
-   <td colname="col2"> <p>The Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hant/dtm/using/library-management.html" format="html" scope="external"> library</a> build date </p> </td> 
+   <td colname="col2"> <p>Platform Launch<a href="https://docs.adobe.com/content/help/zh-Hant/dtm/using/library-management.html" format="html" scope="external"> 程式庫</a>建置日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
