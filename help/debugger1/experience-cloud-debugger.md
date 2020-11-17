@@ -5,11 +5,11 @@ seo-description: Adobe Experience Cloud Debugger Chrome 擴充功能技術文件
 seo-title: Adobe Experience Cloud Debugger Chrome 擴充功能
 title: Adobe Experience Cloud Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 85%
 
 將 Adobe Experience Cloud Debugger 擴充功能與其他 Adobe 啟用解決方案搭配使用，進行類似以下的工作流程：
 
-1. Use [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html) or [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html) to insert code that activates [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) solutions on your pages.
+1. 使用 [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) 解決方案的程式碼。
 
-1. Use [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) to test your implementations.
+1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) 測試您的實作。
 1. 使用 Adobe Experience Cloud Debugger 擴充功能，對 Auditor 發現的問題進行偵錯，或檢查實作的其他相關資訊。
 
 上述步驟不一定需要按照該順序執行，但這是常見的程序。
@@ -33,5 +33,5 @@ ht-degree: 85%
 
 使用 Debugger，收集可協助您了解 Experience Cloud 解決方案實作的相關資訊。例如：
 
-* **平台發佈：** 查看頁面上部署了哪些屬性、環境和構建。
+* **Platform Launch**：查看頁面上部署了哪些屬性、環境和版本。
 * **Target**：查看您符合或不符合哪些活動的資格及其原因。
