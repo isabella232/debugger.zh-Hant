@@ -5,11 +5,11 @@ seo-description: '使用 Adobe Experience Platform Debugger 中的解決方案�
 seo-title: 'Adobe Experience Platform Debugger 中的解決方案標籤 '
 title: 解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '280'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 88%
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-Adobe Experience Platform Web SDK螢幕會顯示有關Adobe Experience Platform Web SDK的資訊。 按一下 **[!UICONTROL Configure]**，即可開啟或關閉主控台登入頁面。
+Adobe Experience Platform Web SDK 畫面會顯示 Adobe Experience Platform Web SDK 的相關資訊。按一下 **[!UICONTROL Configure]**，即可開啟或關閉主控台登入頁面。
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -42,7 +42,7 @@ Analytics 畫面會提供您 [Analytics](https://docs.adobe.com/content/help/zh-
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-使用「Adobe Experience Platform Launch」區段來檢視平台啟動要求。 您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中編輯、替換或新增更多內嵌程式碼。登入的話，可以使用下拉式選單選取替代屬性。
+使用「Adobe Experience Platform Launch」區段檢視 Platform Launch 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中編輯、替換或新增更多內嵌程式碼。登入的話，可以使用下拉式選單選取替代屬性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
