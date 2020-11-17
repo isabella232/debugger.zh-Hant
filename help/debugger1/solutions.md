@@ -5,11 +5,11 @@ seo-description: 使用 Adobe Debugger 中的解決方案標籤
 seo-title: Adobe Debugger 中的解決方案標籤
 title: 解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1063'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ Analytics 標籤會提供您的 [Analytics](https://docs.adobe.com/content/help/
 
 ![](assets/analytics-hits-expand.jpg)
 
-此螢幕會顯示自Adobe Experience Platform Debugger開啟或清除請求以來的所有請求。 預設參數會自動對映至好記名稱。如果您使用「連結 Analytics」功能 (請參閱以下所述) 進行驗證，[Prop 和 eVar](https://docs.adobe.com/content/help/zh-Hant/analytics/implementation/vars/page-vars/evar.html) 變數可對映至自訂好記名稱 (例如「prop1」可顯示為「使用者類型」)。系統會依序由左到右顯示各項請求。
+此畫面會顯示自開啟 Adobe Experience Platform Debugger 後或清除請求後的所有請求。預設參數會自動對映至好記名稱。如果您使用「連結 Analytics」功能 (請參閱以下所述) 進行驗證，[Prop 和 eVar](https://docs.adobe.com/content/help/zh-Hant/analytics/implementation/vars/page-vars/evar.html) 變數可對映至自訂好記名稱 (例如「prop1」可顯示為「使用者類型」)。系統會依序由左到右顯示各項請求。
 
 **下載**：將對報表套裝提出的所有請求儲存為 Excel 試算表。
 
@@ -44,7 +44,7 @@ Analytics 標籤會提供您的 [Analytics](https://docs.adobe.com/content/help/
 
 **連結帳戶 (舊版)**
 
-Click **[!UICONTROL Link Account]**, then enter the requested information to link an Analytics account to the Platform Debugger.
+按一下「**[!UICONTROL Link Account]**」，然後輸入請求的資訊，將 Analytics 帳戶連結至 Platform Debugger。
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ Click **[!UICONTROL Link Account]**, then enter the requested information to lin
 
 若要在執行處理規則後查看 Analytics 點擊上的值，請啟用擷取處理後點擊選項。您必須登入 Adobe Experience Cloud 才能使用此功能。
 
-啟用此選項後，除錯參數則會新增至 Analytics 請求。系統會像處理任何其他點擊一樣繼續處理這些點擊。平台除錯程式會輪詢Analytics除錯API，以擷取具有原始點擊ID的任何點擊的後處理規則值。 處理後點擊具有紫色背景，而且會顯示在原始點擊旁邊。
+啟用此選項後，除錯參數則會新增至 Analytics 請求。系統會像處理任何其他點擊一樣繼續處理這些點擊。Platform Debugger 會輪詢 Analytics 除錯 API，擷取具有原始點擊 ID 之任何點擊的處理後規則值。處理後點擊具有紫色背景，而且會顯示在原始點擊旁邊。
 
 針對大多數 Analytics 實作，可在幾分鐘內提供處理後規則資訊。Analytics for Target (A4T) 實作需要的時間會長很多。
 
@@ -88,11 +88,11 @@ Click **[!UICONTROL Link Account]**, then enter the requested information to lin
 
 以下影片說明一般的 Target 功能：
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hant)
 
 以下影片說明 Mbox 追蹤：
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=chi_hant)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
