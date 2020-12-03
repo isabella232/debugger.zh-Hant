@@ -5,9 +5,9 @@ seo-description: 使用 Adobe Debugger 中的解決方案標籤
 seo-title: Adobe Debugger 中的解決方案標籤
 title: 解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 100%
 
@@ -88,11 +88,11 @@ Analytics 標籤會提供您的 [Analytics](https://docs.adobe.com/content/help/
 
 以下影片說明一般的 Target 功能：
 
->[!VIDEO](https://video.tv.adobe.com/v/23115t2/?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23115t2/)
 
 以下影片說明 Mbox 追蹤：
 
->[!VIDEO](https://video.tv.adobe.com/v/23113t2/?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23113t2/)
 
 ## Audience Manager {#section-1d4484f8b46f457f859ba88039a9a585}
 
