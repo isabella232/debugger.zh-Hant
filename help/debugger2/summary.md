@@ -5,11 +5,11 @@ seo-description: Experience Platform Debugger 摘要畫面
 seo-title: 摘要畫面
 title: 摘要畫面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '957'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
