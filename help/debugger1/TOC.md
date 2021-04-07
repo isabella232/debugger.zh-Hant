@@ -7,9 +7,9 @@ audience: end-user
 user-guide-title: Experience Cloud Debugger 說明
 user-guide-description: 檢查您的網頁是否有 Experience Cloud 解決方案實作的問題。
 breadcrumb-title: Debugger 指南
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
 ht-degree: 100%
 
