@@ -8,9 +8,9 @@ user-guide-title: Experience Platform Debugger 說明
 user-guide-description: 檢查您的網頁是否有 Experience Platform 解決方案實作的問題。
 breadcrumb-title: Platform Debugger 指南
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
 ht-degree: 100%
 
