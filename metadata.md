@@ -2,7 +2,7 @@
 cloud: Experience Platform
 type: 文件
 solution-title: 學習與支援
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+solution-hub-url: https://helpx.adobe.com/tw/support/experience-cloud/core-services.html
 solution-image: help/assets/experience-p-logo-24.png
 getting-started-title: 快速入門
 getting-started-url: https://helpx.adobe.com/tw/experience-cloud-core-services/get-started.html
@@ -10,9 +10,9 @@ tutorials-title: 教學課程
 tutorials-url: https://helpx.adobe.com/tw/analytics/how-to/adobe-launch-publishing-process.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/debugger.zh-Hant
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: ba9d20e620fa85141507713749c8edd6504c46df
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
