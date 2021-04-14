@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 記錄畫面
-keywords: debugger;experience cloud debugger extension;chrome;extension;logs
+keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；記錄檔
 seo-description: Experience Cloud Debugger 記錄畫面
 seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
-source-wordcount: '92'
+exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # 記錄檔{#logs}
 
