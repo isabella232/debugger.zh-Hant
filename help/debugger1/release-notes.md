@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 發行說明
-keywords: Debugger;Experience Cloud Debugger 擴充功能;Chrome;擴充功能;發行說明
+keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；發行說明
 seo-description: Experience Cloud Debugger 發行說明
 seo-title: 發行說明
 title: 發行說明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
+exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
-
 
 # 發行說明 {#release-notes}
 
@@ -262,4 +262,3 @@ ht-degree: 100%
   </tr> 
  </tbody> 
 </table>
-
