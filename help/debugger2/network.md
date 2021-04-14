@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 網路畫面
-keywords: debugger;experience Platform Debugger extension;chrome;extension;network;information
+keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；網路；資訊
 seo-description: Experience Platform Debugger 網路畫面
 seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 53f027d5a5ae56c7a8e812b10a2649a38df3b31d
-workflow-type: tm+mt
-source-wordcount: '227'
+exl-id: ed0579ef-ec26-43df-9453-a395c105038a
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '236'
 ht-degree: 100%
 
 ---
-
 
 # 網路{#network}
 
