@@ -1,18 +1,18 @@
 ---
-description: Debugger 會檢視您的網頁，並協助您找出 Experience Cloud 解決方案實作方式的相關問題
-keywords: debugger;experience cloud debugger extension;chrome;extension
-seo-description: Adobe Experience Cloud Debugger Chrome 擴充功能技術文件 - 檢視您的網頁，並瞭解 Experience Cloud 解決方案實作的相關問題
+description: Debugger 會檢視您的網頁，並協助您找出 Experience Cloud 解決方案實施方式的相關問題
+keywords: Debugger;Experience Cloud Debugger 擴充功能;Chrome;擴充功能
+seo-description: Adobe Experience Cloud Debugger Chrome 擴充功能技術文件 - 檢視您的網頁，並瞭解 Experience Cloud 解決方案實施的相關問題
 seo-title: Adobe Experience Cloud Debugger Chrome 擴充功能
 title: Adobe Experience Cloud Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '283'
+exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '290'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Experience Cloud Debugger 擴充功能{#adobe-experience-cloud-debugger-extension}
 
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 將 Adobe Experience Cloud Debugger 擴充功能與其他 Adobe 啟用解決方案搭配使用，進行類似以下的工作流程：
 
-1. 使用 [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html) 解決方案的程式碼。
+1. 使用 [Adobe Experience Platform Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/user-guides/home.html) 解決方案的程式碼。
 
-1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/en/auditor/using/overview.html) 測試您的實作。
+1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/zh-Hant/auditor/using/overview.html) 測試您的實作。
 1. 使用 Adobe Experience Cloud Debugger 擴充功能，對 Auditor 發現的問題進行偵錯，或檢查實作的其他相關資訊。
 
 上述步驟不一定需要按照該順序執行，但這是常見的程序。
