@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 會檢視您的網頁，並協助您找出 Experience Cloud 解決方案實作方式的相關問題
-keywords: debugger;experience Platform Debugger extension;chrome;extension
+keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能
 seo-description: Adobe Experience Platform Cloud Debugger Chrome 與 Firefox 擴充功能技術文件 - 檢視您的網頁，並了解 Experience Cloud 解決方案實作的相關問題
 seo-title: Adobe Experience Platform Debugger Chrome 與 Firefox 擴充功能
 title: Adobe Experience Platform Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '307'
+exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '314'
 ht-degree: 100%
 
 ---
-
 
 # (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
 
