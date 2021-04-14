@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 記錄檔畫面
-keywords: debugger;experience Platform Debugger extension;chrome;extension;logs
+keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；記錄檔
 seo-description: Experience Platform Debugger 記錄檔畫面
 seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '157'
+exl-id: 137a97f2-7e02-4e09-b4c9-e48e20e044d1
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '165'
 ht-degree: 100%
 
 ---
-
 
 # 記錄檔{#logs}
 
