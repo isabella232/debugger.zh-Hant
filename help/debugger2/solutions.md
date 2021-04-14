@@ -1,18 +1,18 @@
 ---
 description: 使用 Adobe Experience Platform Debugger 中的解決方案標籤
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;solutions;solution;information;analytics;target;audience manager;media optimizer;amo;id service
+keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；摘要；清除；要求；解決方案；解決方案；資訊；Analytics；Target；Audience Manager；Media Optimizer；AMO；ID 服務
 seo-description: '使用 Adobe Experience Platform Debugger 中的解決方案標籤 '
 seo-title: 'Adobe Experience Platform Debugger 中的解決方案標籤 '
 title: 解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '280'
+exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '302'
 ht-degree: 100%
 
 ---
-
 
 # 解決方案{#solution-tabs}
 
