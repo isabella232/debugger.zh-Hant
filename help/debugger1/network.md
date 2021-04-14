@@ -1,18 +1,18 @@
 ---
 description: Experience Cloud Debugger 網路資訊畫面
-keywords: debugger;experience cloud debugger extension;chrome;extension;network;information
+keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；網路；資訊
 seo-description: Experience Cloud Debugger 網路資訊畫面
 seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
-translation-type: tm+mt
-source-git-commit: 1d81f427e2c1a68a182fae8262d0e2ad32a87223
-workflow-type: tm+mt
-source-wordcount: '217'
+exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '226'
 ht-degree: 100%
 
 ---
-
 
 # 網路資訊{#network-information}
 
@@ -41,4 +41,3 @@ ht-degree: 100%
 使用每個欄頂端的圖示來將伺服器呼叫 URL 複製到剪貼簿，您可以將剪貼簿中的內容貼到另一個文件進行參照或除錯。
 
 ![](assets/copy.jpg)
-
