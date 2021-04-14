@@ -1,18 +1,18 @@
 ---
 description: Experience Platform Debugger 摘要畫面
-keywords: debugger;experience Platform Debugger extension;chrome;extension;summary;clear;requests;summary screen;solution;information;analytics;target;dtm;audience manager;launch;id service
+keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；摘要；清除；要求；摘要畫面；解決方案；資訊；Analytics；Target；DTM；Audience Manager；Launch；ID 服務
 seo-description: Experience Platform Debugger 摘要畫面
 seo-title: 摘要畫面
 title: 摘要畫面
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
-translation-type: tm+mt
-source-git-commit: e5f85bb78ad818d3507ca48eee27bb1e44f4e1a7
-workflow-type: tm+mt
-source-wordcount: '957'
-ht-degree: 99%
+exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
+translation-type: ht
+source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+workflow-type: ht
+source-wordcount: '979'
+ht-degree: 100%
 
 ---
-
 
 # 摘要畫面{#summary-screen}
 
@@ -67,15 +67,15 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>合作夥伴 </p> </td> 
-   <td colname="col2"> <p>DIL 例項的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_dil_get_partner.html" format="html" scope="external">合作夥伴名稱</a> </p> </td> 
+   <td colname="col2"> <p>DIL 例項的<a href="https://experiencecloud.adobe.com/resources/help/zh_TW/aam/r_dil_get_partner.html" format="html" scope="external">合作夥伴名稱</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p>DIL 例項的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/r_api_return_versions_dil.html" format="html" scope="external">版本號碼</a> </p> </td> 
+   <td colname="col2"> <p>DIL 例項的<a href="https://experiencecloud.adobe.com/resources/help/zh_TW/aam/r_api_return_versions_dil.html" format="html" scope="external">版本號碼</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>UUID </p> </td> 
-   <td colname="col2"> <p>與 DIL 例項相關聯的<a href="https://experiencecloud.adobe.com/resources/help/en_US/aam/ids-in-aam.html" format="html" scope="external">不重複的使用者 ID</a> </p> </td> 
+   <td colname="col2"> <p>與 DIL 例項相關聯的<a href="https://experiencecloud.adobe.com/resources/help/zh_TW/aam/ids-in-aam.html" format="html" scope="external">不重複的使用者 ID</a> </p> </td> 
   </tr> 
  </tbody> 
 </table>
@@ -194,7 +194,7 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
    <td colname="col2"> <p>Target 體驗 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/zh-Hant/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>選件名稱</p> </td> 
+   <td colname="col1"> <p>優惠方案名稱</p> </td> 
    <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hant/target/using/experiences/offers/manage-content.html" format="html" scope="external">選件</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/zh-Hant/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
@@ -203,4 +203,3 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
   </tr> 
  </tbody> 
 </table>
-
