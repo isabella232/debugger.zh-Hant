@@ -6,10 +6,9 @@ seo-title: Adobe Experience Platform Debugger Chrome 與 Firefox 擴充功能
 title: Adobe Experience Platform Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-translation-type: ht
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '314'
+source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
+workflow-type: tm+mt
+source-wordcount: '312'
 ht-degree: 100%
 
 ---
@@ -24,7 +23,7 @@ ht-degree: 100%
 
 將 Platform Debugger 與其他 Adobe 啟用解決方案搭配使用，以執行類似以下的工作流程：
 
-1. 使用 [Launch](https://docs.adobe.com/content/help/zh-Hant/launch/using/overview.html) 或 [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html) 解決方案的程式碼。
+1. 使用 [Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hant) 或 [DTM](https://docs.adobe.com/content/help/zh-Hant/dtm/using/dtm-home.html)，插入會在您的頁面上啟用 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html) 解決方案的程式碼。
 
 1. 使用 [Adobe Experience Platform Auditor](https://experiencecloud.adobe.com/resources/help/zh_TW/auditor/) 測試您的實作。
 1. 使用 Adobe Experience Platform Debugger 對 Auditor 發現的問題偵錯，或檢查實作的其他相關資訊。
