@@ -6,17 +6,16 @@ seo-title: 網路資訊
 title: 網路資訊
 uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: 9a758088-e87f-42a6-8410-24eb84d0d37a
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '226'
+workflow-type: tm+mt
+source-wordcount: '228'
 ht-degree: 100%
 
 ---
 
 # 網路資訊{#network-information}
 
-若要檢視網路資訊，請按一下「**[!UICONTROL Network]**」。
+若要檢視網路資訊，請按一下&#x200B;**[!UICONTROL 網路]**。
 
 網路畫面會彙總頁面上發出的所有 Adobe Experience Cloud 解決方案呼叫，並由左到右依序顯示。標準參數會自動加上好記名稱的標示，並將相同角色的常見參數編排為分組顯示。
 
@@ -28,7 +27,7 @@ ht-degree: 100%
 >
 >目前並非解決方案呼叫中傳遞的所有參數 (例如 Analytics 內容變數、Target 自訂參數或 Experience Cloud ID 服務客戶 ID) 都會顯示在網路畫面中。
 
-若要檢視所有資訊，請選取「**[!UICONTROL All]**」。
+若要檢視所有資訊，請選取&#x200B;**[!UICONTROL 全部]**。
 
 您也可以依解決方案篩選資訊。選取您要檢視的解決方案。您可以同時檢視多個解決方案。系統會強調顯示選取的解決方案篩選器。
 
