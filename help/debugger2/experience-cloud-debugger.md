@@ -32,7 +32,7 @@ ht-degree: 100%
 
 雖然您可以在任何網頁上執行 Platform Debugger，只有當您已在其中一個開啟的 Chrome 分頁中通過 Experience Cloud 驗證時，才會顯示擴充功能中的非公開資料。
 
-## 使用案例 {#section-9fcd0583ed184943a8f0c2d3c00658e0}
+## 使用個案 {#section-9fcd0583ed184943a8f0c2d3c00658e0}
 
 使用 Platform Debugger，收集有助於了解 Experience Cloud 解決方案實作方式的相關資訊。例如：
 
