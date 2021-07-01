@@ -5,11 +5,10 @@ seo-description: Experience Platform Debugger 事件畫面
 seo-title: 事件
 title: 事件
 exl-id: 1f94ca36-d545-4e41-89a9-ed97c45991fb
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '179'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 92%
 
 ---
 
@@ -40,10 +39,10 @@ ht-degree: 100%
 
    ![](assets/event-datalayer.jpg)
 
-1. 按一下「**[!UICONTROL Save]**」。
+1. 按一下「**[!UICONTROL 儲存]**」。
 
 所有已刪除或新增的內容，都能從資料層變更的詳細資訊中一覽無遺。若要深入了解資料層，您可以按一下 **{}**。
 
 ## 下載事件資訊
 
-按一下 **[!UICONTROL Download]**，即可下載詳載頁面呼叫相關資訊的 Excel 檔案。
+按一下「**[!UICONTROL 下載]**」以下載顯示頁面呼叫相關資訊的Excel檔案。
