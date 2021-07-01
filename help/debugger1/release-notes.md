@@ -6,21 +6,20 @@ seo-title: 發行說明
 title: 發行說明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '732'
 ht-degree: 100%
 
 ---
 
-# 發行說明 {#release-notes}
+# 發行說明{#release-notes}
 
 ## 發行說明 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
-## 0.0.817 版 (2019 年 5 月 17 日) {#topic-5dc9026cac864330b04361b1da8309a8}
+## 0.0.817 版 (2019 年 5 月 17 日)  {#topic-5dc9026cac864330b04361b1da8309a8}
 
-## 新特性 {#section-71352536e6894ad08f307535529394cd}
+## 新功能 {#section-71352536e6894ad08f307535529394cd}
 
 <table id="table_7EFCAF456B14404FAF3715FC56519AAF"> 
  <thead> 
@@ -37,9 +36,9 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## 0.0.810 版 (2019 年 3 月 6 日) {#topic-83bb7ddd68594177be9fd7826b650b80}
+## 0.0.810 版 (2019 年 3 月 6 日)  {#topic-83bb7ddd68594177be9fd7826b650b80}
 
-## 新特性 {#section-0a2f6fcb0045464fa11f0586c69f7ffd}
+## 新功能 {#section-0a2f6fcb0045464fa11f0586c69f7ffd}
 
 <table id="table_96AEBFF29F3D40CAA859133B22756B0C"> 
  <thead> 
@@ -67,9 +66,9 @@ ht-degree: 100%
 * 更新 Experience Cloud Debugger 頁尾
 * 修正用於 Target 的過時術語問題
 
-## 0.0.809 版 (2019 年 2 月 28 日) {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
+## 0.0.809 版 (2019 年 2 月 28 日)  {#topic-6241de45fa9e4a23a95ad4d3a73f7348}
 
-## 新特性 {#section-14036b9f2c0144fdac5e292ea42ce564}
+## 新功能 {#section-14036b9f2c0144fdac5e292ea42ce564}
 
 <table id="table_66E255E9BA8845CAA92779F580D14EB4"> 
  <thead> 
@@ -98,9 +97,9 @@ ht-degree: 100%
 * 修正動態插入 Launch 中繼續顯示不正確 URL 的問題
 * 修正 Experience Cloud Debugger 在 Experience Cloud Debugger 視窗已關閉時仍繼續取代內嵌程式碼的問題
 
-## 0.0.806 版 (2018 年 9 月 10 日) {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
+## 0.0.806 版 (2018 年 9 月 10 日)  {#topic-a41c9d1969ff4d06ac3bb4e7d6b6d18a}
 
-## 新特性 {#section-4eb2a6ed26a44abc96623384a7e94b0f}
+## 新功能 {#section-4eb2a6ed26a44abc96623384a7e94b0f}
 
 <table id="table_9AC6DE90AF4345DFA707BFBA1E58C328"> 
  <thead> 
@@ -141,13 +140,13 @@ ht-degree: 100%
 * 修正網路標籤的解決方案列顯示「Media Optimizer」(而不是目前的「Advertising Cloud」名稱) 的問題
 * 修正導致 Experience Cloud Debugger 在所有頁面上插入 _satellite 的問題
 
-## 0.0.803 版 (2018 年 8 月 10 日) {#topic-d2901fb70ce04a5586f6c7a994fce875}
+## 0.0.803 版 (2018 年 8 月 10 日)  {#topic-d2901fb70ce04a5586f6c7a994fce875}
 
 0.0.803 版不包含任何供客戶使用的變更。
 
-## 0.0.802 版 (2018 年 8 月 1 日) {#topic-b93cd396af5e49dc97cd86264871aeb4}
+## 0.0.802 版 (2018 年 8 月 1 日)  {#topic-b93cd396af5e49dc97cd86264871aeb4}
 
-## 新特性 {#section-e6699fb9c9b24035ace56d6a84c9d09b}
+## 新功能 {#section-e6699fb9c9b24035ace56d6a84c9d09b}
 
 <table id="table_E847A9D6711F4CF59E98806FA7AF8379"> 
  <thead> 
@@ -182,9 +181,9 @@ ht-degree: 100%
 * 修正未更新「按一下儲存格即可檢視」功能的問題
 * 修正 AAM 標籤未顯示 AAM 點擊的問題
 
-## 0.0.798 版 (2018 年 6 月 14 日) {#topic-3b2d44277f2f4c0295d82724c34bf467}
+## 0.0.798 版 (2018 年 6 月 14 日)  {#topic-3b2d44277f2f4c0295d82724c34bf467}
 
-## 新特性 {#section-0d73ae8b7ced417e9039f986fafaa102}
+## 新功能 {#section-0d73ae8b7ced417e9039f986fafaa102}
 
 <table id="table_8FDED5A7B7F7430A88AE441336F9C714"> 
  <thead> 
@@ -232,9 +231,9 @@ ht-degree: 100%
 * 修正未清除徽章編號的問題
 * 修正客戶回報摘要詳細資料空白的問題
 
-## 0.0.797 版 (2018 年 5 月 25 日) {#topic-51490f4f42aa40eb879663fad9d62916}
+## 0.0.797 版 (2018 年 5 月 25 日)  {#topic-51490f4f42aa40eb879663fad9d62916}
 
-## 新特性 {#section-bbf8ff7e000e4b5592d348e0870471f6}
+## 新功能 {#section-bbf8ff7e000e4b5592d348e0870471f6}
 
 <table id="table_8CF872DC245A46C38FE21490C842D47A"> 
  <thead> 
