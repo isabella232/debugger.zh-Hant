@@ -6,10 +6,9 @@ seo-title: 記錄檔
 title: 記錄檔
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
-translation-type: ht
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
-workflow-type: ht
-source-wordcount: '100'
+workflow-type: tm+mt
+source-wordcount: '102'
 ht-degree: 100%
 
 ---
@@ -25,4 +24,4 @@ ht-degree: 100%
 
 ![](assets/logs.jpg)
 
-某些 DTM 記錄項目在其訊息中包含顯示程式碼選項。按一下「**[!UICONTROL Show Code]**」即可檢視條件式程式碼，決定是否應引發規則。
+某些 DTM 記錄項目在其訊息中包含顯示程式碼選項。按一下&#x200B;**[!UICONTROL 顯示程式碼]**&#x200B;以檢視條件式程式碼，決定是否應引發規則。
