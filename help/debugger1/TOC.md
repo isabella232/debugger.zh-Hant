@@ -18,7 +18,7 @@ ht-degree: 100%
 # Experience Cloud Debugger 說明 {#using}
 
 + [Adobe Experience Cloud Debugger 擴充功能](experience-cloud-debugger.md)
-+ [版本注意事項](release-notes.md)
++ [發行說明](release-notes.md)
 + [安裝 Experience Cloud Debugger](install-debugger.md)
 + [摘要畫面](run-debugger.md)
 + [網路資訊](network.md)
