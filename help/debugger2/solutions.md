@@ -8,8 +8,8 @@ uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 2cb49f78-4a4b-4410-8a4b-6f9009c51d58
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 91%
+source-wordcount: '302'
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 91%
 
 ## Adobe Experience Platform Web SDK {#aep}
 
-Adobe Experience Platform Web SDK 畫面會顯示 Adobe Experience Platform Web SDK 的相關資訊。按一下&#x200B;**[!UICONTROL Configure]**&#x200B;以開啟或關閉控制台登錄。
+Adobe Experience Platform Web SDK 畫面會顯示 Adobe Experience Platform Web SDK 的相關資訊。按一下 **[!UICONTROL Configure]**，即可開啟或關閉主控台登入頁面。
 
 ## Analytics {#section-f71dfcc22bb44c86bec328491606a482}
 
@@ -41,11 +41,11 @@ Analytics 畫面會提供您 [Analytics](https://docs.adobe.com/content/help/zh-
 
 ## Adobe Experience Platform Launch {#section-ee80a9c509f2462c89c1e5bd8d05d7c8}
 
-使用「Adobe Experience Platform Launch」區段檢視 Platform Launch 請求。您也可以按一下&#x200B;**[!UICONTROL Configuration]**&#x200B;來設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。 您可以在 Experience Platform Debugger 中編輯、替換或新增更多內嵌程式碼。登入的話，可以使用下拉式選單選取替代屬性。
+使用「Adobe Experience Platform Launch」區段檢視 Platform Launch 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/upgrade/link-dtm-embed-code.html)。您可以在 Experience Platform Debugger 中編輯、替換或新增更多內嵌程式碼。登入的話，可以使用下拉式選單選取替代屬性。
 
 ## Dynamic Tag Management {#dynamic-tag-management}
 
-Dynamic Tag Management 區段可供檢視 DTM 請求。您也可以按一下&#x200B;**[!UICONTROL Configuration]**&#x200B;來設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/dtm/using/client-side/code.html)。
+Dynamic Tag Management 區段可供檢視 DTM 請求。您也可以按一下 **[!UICONTROL Configuration]**，設定[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/dtm/using/client-side/code.html)。
 
 ## Experience Cloud ID 服務 {#section-a96c32f8e63a4991abb296f6e8ea01cf}
 
