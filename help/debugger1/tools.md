@@ -8,7 +8,7 @@ uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ![](assets/tools.jpg)
 
-您可以在任何頁面上動態插入 Adobe Experience Platform Launch 或 DTM，以測試頁面上未安裝 Platform Launch 或 DTM 的某個項目。按一下&#x200B;**[!UICONTROL 內嵌程式碼]**&#x200B;圖示，然後輸入您的[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/dtm/using/client-side/deployment.html)，並按一下&#x200B;**[!UICONTROL 儲存]**。
+您可以在任何頁面上動態插入 Adobe Experience Platform Launch 或 DTM，以測試頁面上未安裝 Platform Launch 或 DTM 的某個項目。按一下「**[!UICONTROL Embed Code]**」圖示，然後輸入您的[內嵌程式碼](https://docs.adobe.com/content/help/zh-Hant/dtm/using/client-side/deployment.html)，並按一下「**[!UICONTROL Save]**」。
 
 ![](assets/tools-embedcode.jpg)
 
