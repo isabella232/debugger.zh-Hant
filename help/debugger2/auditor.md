@@ -6,8 +6,8 @@ title: Auditor
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 89%
+source-wordcount: '91'
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 89%
 
 您可以使用 Adobe Experience Platform [Auditor](https://docs.adobe.com/content/help/zh-Hant/auditor/using/overview.html)，透過 Auditor 畫面在您的頁面上執行一連串的稽核作業。
 
-1. 按一下左側導覽中的&#x200B;**[!UICONTROL Auditor]**。
-1. 按一下「**[!UICONTROL 執行Auditor測試]**」。
+1. 按一下左側導覽中的「**[!UICONTROL Auditor]**」。
+1. 按一下「**[!UICONTROL Run Auditor Tests]**」。
 
 測試結果會隨即顯示。
 
