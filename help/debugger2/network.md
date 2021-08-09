@@ -8,8 +8,8 @@ uuid: 839686c9-6e4f-4661-acf6-150ea24dc47f
 exl-id: ed0579ef-ec26-43df-9453-a395c105038a
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 91%
+source-wordcount: '236'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 91%
 >
 >Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
 
-若要檢視網路資訊，請按一下&#x200B;**[!UICONTROL 網路]**。
+若要檢視網路資訊，請按一下「**[!UICONTROL Network]**」。
 
 網路畫面會彙總頁面上發出的所有 Adobe Experience Cloud 解決方案呼叫，並由左到右依序顯示。標準參數會自動加上好記名稱的標示，並將相同角色的常見參數編排為分組顯示。
 
@@ -35,7 +35,7 @@ ht-degree: 91%
 
 ![](assets/network-analytics.jpg)
 
-若要返回顯示所有解決方案，請按一下「**[!UICONTROL 」網路]**
+若要返回顯示所有解決方案，請按一下「**[!UICONTROL Network]**」
 
 按一下網路檢視中的項目以查看其展開檢視。從展開的視圖視窗中，您可以將顯示的資訊複製到剪貼簿。
 
@@ -45,6 +45,6 @@ ht-degree: 91%
 
 ![](assets/copy.jpg)-->
 
-要清除清單，請按一下&#x200B;**[!UICONTROL 刪除事件]**。
+若要清除清單，請按一下「**[!UICONTROL Remove Events]**」。
 
-若要下載包含此螢幕上資訊的Excel檔案，請按一下「**[!UICONTROL 下載]**」。
+若要下載包含此螢幕上資訊的 Excel 檔案，請按一下「**[!UICONTROL Download]**」。
