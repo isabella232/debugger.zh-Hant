@@ -7,8 +7,8 @@ title: 設定 Experience Platform Debugger
 exl-id: ddc90b52-56d4-4efc-aad7-5a2c430e7dfe
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 66%
+source-wordcount: '178'
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ ht-degree: 66%
 
 ## 淺色或深色模式
 
-Platform Debugger開啟後，您可以前往&#x200B;**[!UICONTROL Settings]**&#x200B;並選取&#x200B;**Dark Mode**（預設值）或&#x200B;**Light Mode**，以選取您偏好的外觀。
+ Platform Debugger 開啟後，您可以前往「**[!UICONTROL Settings]**」選取&#x200B;**「深色模式」**(預設值) 或&#x200B;**「淺色模式」**，以使用您偏好的外觀。
 
 ## 重設
 
-按一下「**[!UICONTROL 重設所有資料和設定]**」返回以清除所有資料並返回預設設定。
+按一下「**[!UICONTROL Reset all Data and Settings]**」可返回清除所有資料，並恢復預設設定。
 
 ## 將 Experience Platform Debugger 鎖定在單一頁面
 
-在您變更網站頁面後，Experience Platform Debugger 視窗會隨之更新，顯示該頁面的實際資訊。畫面底部會顯示您所連線的頁面名稱。若要將Experience Platform偵錯工具鎖定在單一頁面，請按一下Platform Debugger視窗右下角的&#x200B;**[!UICONTROL Lock]**。
+在您變更網站頁面後，Experience Platform Debugger 視窗會隨之更新，顯示該頁面的實際資訊。畫面底部會顯示您所連線的頁面名稱。若要將 Platform Debugger 鎖定在單一頁面，請按一下 Experience Platform Debugger 視窗右下角的「**[!UICONTROL Lock]**」。
 
 ![](assets/lock.jpg)
 
