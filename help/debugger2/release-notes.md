@@ -1,15 +1,15 @@
 ---
 description: Experience Platform Debugger 發行說明
 keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；發行說明
-seo-description: Experience Platform Debugger 發行說明
-seo-title: 發行說明
+seo-description: Experience Platform Debugger release notes
+seo-title: Release Notes
 title: 發行說明
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 3eed44da-5f85-413e-a783-3a0df03a2baf
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 016054f3cd47b9089afbdfbe75c5beec6945ce56
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 17%
 
 ---
 
@@ -17,6 +17,48 @@ ht-degree: 100%
 
 ## 發行說明 {#topic-a92c3eb799b74e7fa404af8af5efb215}
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
+## 1.1.0版（2021年10月5日）
+
+## 新功能
+
+<table id="table">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> 功能 </th>
+   <th colname="col2" class="entry"> 說明 </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colname="col1"> <p> 遠端除錯視覺效果 </p> </td>
+   <td colname="col2"> <p> 在Adobe Experience Platform Web SDK &gt;邊緣交易區段中，將遠端除錯事件整理至視覺化流程圖。 此外，需要頁面上使用的Adobe Experience Platform Web SDK IMS組織，才能在開始新的遠端除錯工作階段時符合登入的組織。 通過連接的頁簽篩選邊緣事務。</p> <p> <b>注意： </b> 記錄&gt; Edge區段中仍提供Target追蹤記錄。</p> </td>
+  </tr>
+  <tr>
+   <td colname="col1"> <p> Adobe Experience Platform Web SDK設定章節改良 </p> </td>
+   <td colname="col2"> <p> 為頁面上的每個例項允許個別的資料流ID設定覆寫。 新增已啟用除錯的切換按鈕。</p> </td>
+  </tr>
+ </tbody>
+</table>
+
+## 錯誤修正
+
+* 修正Adobe Target追蹤Token未一律與Adobe Experience Platform Web SDK的遠端除錯工作階段一起傳送的問題。
+
+## 1.0.0版（2021年5月5日）
+
+## 新功能
+
+<table id="table_7EFCAF456B14404FAF3715FC56519AAF">
+ <thead>
+  <tr>
+   <th colname="col1" class="entry"> 功能 </th>
+   <th colname="col2" class="entry"> 說明 </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colname="col1"> <p> 首次發行 </p> </td>
+   <td colname="col2"> <p> Experience Platform偵錯工具的第一個主要版本。 意在取代Experience Cloud Debugger。 </p> </td>
+  </tr>
+ </tbody>
+</table>
