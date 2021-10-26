@@ -1,25 +1,29 @@
 ---
 description: Debugger 會檢視您的網頁，並協助您找出 Experience Cloud 解決方案實施方式的相關問題
 keywords: Debugger;Experience Cloud Debugger 擴充功能;Chrome;擴充功能
-seo-description: Adobe Experience Cloud Debugger Chrome 擴充功能技術文件 - 檢視您的網頁，並瞭解 Experience Cloud 解決方案實施的相關問題
-seo-title: Adobe Experience Cloud Debugger Chrome 擴充功能
+seo-description: Technical documentation for the Adobe Experience Cloud Debugger Chrome Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
+seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: e3f0fa30fa5caeccc9a01b5d1949722836645da9
+source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 92%
+source-wordcount: '270'
+ht-degree: 85%
 
 ---
 
 # Adobe Experience Cloud Debugger 擴充功能{#adobe-experience-cloud-debugger-extension}
 
+>[!IMPORTANT]
+>
+>目前有新版的Debugger可用。 找到新的Adobe Experience Platform Debugger [此處](https://chrome.google.com/webstore/detail/adobe-experience-platform/bfnnokhpnncpkdmbokanobigaccjkpob).
+
 [適用於 Chrome 的 Adobe Experience Cloud Debugger 擴充功能](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)會檢查您的網頁，協助您找出 Experience Cloud 解決方案實作方式的相關問題。
 
 將 Adobe Experience Cloud Debugger 擴充功能與其他 Adobe 啟用解決方案搭配使用，進行類似以下的工作流程：
 
-1. 使用[Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hant)插入會在您的頁面上啟用[Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html)解決方案的程式碼。
+1. 使用 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hant) 插入啟用 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 解決方案。
 
 1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/zh-Hant/auditor/using/overview.html) 測試您的實作。
 1. 使用 Adobe Experience Cloud Debugger 擴充功能，對 Auditor 發現的問題進行偵錯，或檢查實作的其他相關資訊。
