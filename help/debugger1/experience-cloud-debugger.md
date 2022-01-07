@@ -6,10 +6,10 @@ seo-title: Adobe Experience Cloud Debugger Chrome Extension
 title: Adobe Experience Cloud Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: 02d88172-3fb1-4111-a80d-e9d46df9ea1e
-source-git-commit: bb3891dabd8721fe9e81bffac8e97fd2866b676b
+source-git-commit: 38aa891a1de63ad395f12726597bd8bba82189e6
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 85%
+source-wordcount: '262'
+ht-degree: 84%
 
 ---
 
@@ -24,8 +24,7 @@ ht-degree: 85%
 將 Adobe Experience Cloud Debugger 擴充功能與其他 Adobe 啟用解決方案搭配使用，進行類似以下的工作流程：
 
 1. 使用 [Adobe Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hant) 插入啟用 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/home.html) 解決方案。
-
-1. 使用 [Adobe Experience Platform Auditor](https://docs.adobe.com/content/help/zh-Hant/auditor/using/overview.html) 測試您的實作。
+1. 使用 Adobe Experience Platform Auditor 測試您的實作。
 1. 使用 Adobe Experience Cloud Debugger 擴充功能，對 Auditor 發現的問題進行偵錯，或檢查實作的其他相關資訊。
 
 上述步驟不一定需要按照該順序執行，但這是常見的程序。
