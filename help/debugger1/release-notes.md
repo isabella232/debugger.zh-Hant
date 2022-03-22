@@ -1,15 +1,13 @@
 ---
 description: Experience Cloud Debugger 發行說明
 keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；發行說明
-seo-description: Experience Cloud Debugger 發行說明
-seo-title: 發行說明
-title: 發行說明
+title: 發行說明Experience Cloud Debugger
 uuid: 47a5d6f3-c074-4ad5-ad4b-e6030496689b
 exl-id: 1c81a0f2-81ae-4f29-8c48-45e755cabb07
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 100%
+source-wordcount: '727'
+ht-degree: 99%
 
 ---
 
@@ -85,7 +83,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## 改良功能 {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
+## 改進項目 {#section-e9e8a6ddedde4c029b1d3d69c009cbad}
 
 * 修正未淨化使用者輸入內容所導致的潛在漏洞。
 
@@ -128,7 +126,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## 改良功能 {#section-56003a12c32f4998bf1cf2a25a518592}
+## 改進項目 {#section-56003a12c32f4998bf1cf2a25a518592}
 
 * 改善網路標籤的顯示內容，避免因表格高度太大而讓使用者必須先垂直捲動才能水平捲動。之前捲動列會顯示在表格底部。因為表格可能會變得很大，使用者必須一直垂直向下捲動才能看到內容。
 * 更新工具標籤中的 ObservePoint 連結。
@@ -171,7 +169,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## 改良功能 {#section-0e7090e3e6a645f085d4553b983ecff8}
+## 改進項目 {#section-0e7090e3e6a645f085d4553b983ecff8}
 
 * 將 Media Optimizer 名稱變更為 Advertising Cloud
 * 移除網路標籤中找不到的解決方案

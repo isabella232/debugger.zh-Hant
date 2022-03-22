@@ -1,15 +1,15 @@
 ---
 description: 使用 Adobe Debugger 中的解決方案標籤
 keywords: Debugger;Experience Cloud Debugger 擴充功能;Chrome;擴充功能;摘要;清除;要求;解決方案;解決方案;資訊;Analytics;Target;Audience Manager;Media Optimizer;AMO;ID 服務
-seo-description: 使用 Adobe Debugger 中的解決方案標籤
-seo-title: Adobe Debugger 中的解決方案標籤
-title: 解決方案標籤
+seo-description: Using the Solution tabs in Adobe Debugger
+seo-title: Solution Tabs in Adobe Debugger
+title: 解決方案頁籤在Experience Cloud Debugger
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1085'
-ht-degree: 100%
+source-wordcount: '1077'
+ht-degree: 99%
 
 ---
 

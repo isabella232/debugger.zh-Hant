@@ -1,15 +1,15 @@
 ---
 description: 執行 Experience Cloud Debugger
 keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；摘要；清除；要求；摘要畫面；解決方案；資訊；Analytics；Target；DTM；Audience Manager；Launch；ID 服務
-seo-description: 執行 Experience Cloud Debugger
-seo-title: 摘要畫面
-title: 摘要畫面
+seo-description: Running Experience Cloud Debugger
+seo-title: Summary Screen
+title: 摘要螢幕Experience Cloud Debugger
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 0ee0314b-1611-4581-ae54-2c784e0e56ff
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
 workflow-type: tm+mt
-source-wordcount: '1069'
-ht-degree: 100%
+source-wordcount: '1066'
+ht-degree: 99%
 
 ---
 
