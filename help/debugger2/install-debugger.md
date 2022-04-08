@@ -1,31 +1,23 @@
 ---
-description: 如何安裝 Experience Platform Debugger
+title: 安裝平台調試器
+description: 瞭解如何安裝Adobe Experience Platform調試器。
 keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；安裝
-seo-description: 如何安裝 Experience Platform Debugger
-seo-title: 安裝 Experience Platform Debugger
-title: 安裝 Experience Platform Debugger
+seo-description: How to Install Experience Platform Debugger
+seo-title: Install Experience Platform Debugger
 uuid: 16d77c6d-11e7-4dfd-a846-3dace9f4070f
 exl-id: add83773-dad7-4abe-9740-a69eb8fadbc3
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 25%
 
 ---
 
-# 安裝 Adobe Experience Platform Debugger{#install-experience-platform-debugger}
+# 安裝平台調試器
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
+Adobe Experience Platform調試器可以安裝在GoogleChrome或Mozilla Firefox瀏覽器中。請按照以下相應連結在您的首選瀏覽器上安裝擴展：
 
-下載並安裝 Adobe Experience Platform Debugger。
+* [Chrome](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
+* [Firefox](https://addons.mozilla.org/zh-TW/firefox/addon/adobe-experience-platform-dbg/)
 
-* **Chrome**：從 [Chrome 擴充功能頁面](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj)
-* **Firefox**：從 [Firefox 附加元件頁面](https://addons.mozilla.org/zh-TW/firefox/addon/adobe-experience-platform-dbg/)
-
-安裝 Chrome 擴充功能或 Firefox 附加元件後，圖示會隨即新增至擴充功能列：
-
-![](assets/start-icon.jpg)
-
-按一下圖示即可啟動 Experience Platform Debugger。
+安裝Chrome擴展或Firefox載入項後，將顯示一個表徵圖(![](assets/start-icon.jpg))。 選擇此表徵圖以開啟擴展。

@@ -1,29 +1,25 @@
 ---
-description: Experience Platform Debugger 會檢視您的網頁，並協助您找出 Experience Cloud 解決方案實作方式的相關問題
+description: Experience Platform Debugger 會檢視您的網頁，並協助您找出 Experience Cloud 解決方案實作方式的相關問題.
 keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能
 seo-description: Technical documentation for the Adobe Experience Platform Debugger Chrome and Firefox Extension - examine your web pages and understand problems with your Experience Cloud solution mplementations
 seo-title: Adobe Experience Platform Debugger Chrome and Firefox Extension
 title: Adobe Experience Platform Debugger 擴充功能
 uuid: 42e2c8a2-548a-4a3f-b57d-532535a0e7b9
 exl-id: e02bc318-fbff-4a19-980a-d5c0a21ca300
-source-git-commit: af031b800b991e0e906e9abda88992f093c58fbc
+source-git-commit: 5e6481c6f4b0ffe64440b1c550511fbf155a19b4
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 29%
+source-wordcount: '270'
+ht-degree: 22%
 
 ---
 
-# (Beta) Adobe Experience Platform Debugger {#adobe-experience-platform-debugger}
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
+# Adobe Experience Platform調試器概述
 
 的Adobe Experience Platform調試器擴展 [鉻](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj) 和 [火狐](https://addons.mozilla.org/zh-TW/firefox/addon/adobe-experience-platform-dbg/) 檢查網頁，並幫助您查找如何實施Adobe Experience Cloud解決方案的問題。
 
 您可以將平台調試器與其他Adobe激活解決方案一起使用，以執行以下操作：
 
-1. 使用 [標籤](https://experienceleague.adobe.com/docs/launch/using/home.html?lang=zh-Hant) 在資料收集UI中插入激活的代碼 [Adobe Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/core-services/interface/experience-cloud.html) 產品。
+1. 使用 [標籤](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html) 在資料收集UI中插入激活的代碼 [Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=zh-Hant) 產品。
 1. 使用 [**[!UICONTROL Auditor]**頁籤](./auditor/overview.md) 在平台調試器中test您的實現。
 1. 使用平台調試器中基於事件和特定於解決方案的工具來調試審計者發現的問題或檢查有關實施的其他資訊。
 

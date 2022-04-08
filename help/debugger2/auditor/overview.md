@@ -1,20 +1,16 @@
 ---
-title: Auditor
+title: 審計員頁籤
 description: 瞭解如何使用Adobe Experience Platform調試器中的「審計者」頁籤testAdobe Experience Cloud實施。
 keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；Auditor；DTM；Target
 exl-id: 409094f8-a7d9-45f7-ba12-b5e6250abc0f
-source-git-commit: 84aa9d71d3f3bc84a9bcbf18a9978428964f1f74
+source-git-commit: a442fa56589003dad4ca9896ef601349fb93d280
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 38%
+source-wordcount: '358'
+ht-degree: 35%
 
 ---
 
-# 審計員
-
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
+# 「審計者」頁籤
 
 在Adobe Experience Platform調試器中，可以使用 **[!UICONTROL Auditor]** 頁籤以在頁面上運行一系列審計test。
 

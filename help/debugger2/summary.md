@@ -1,29 +1,21 @@
 ---
-description: Experience Platform Debugger 摘要畫面
+title: 摘要頁籤
+description: 瞭解如何在Adobe Experience Platform調試器中使用摘要頁籤。
 keywords: Debugger；Experience Platform Debugger 擴充功能；Chrome；擴充功能；摘要；清除；要求；摘要畫面；解決方案；資訊；Analytics；Target；DTM；Audience Manager；Launch；ID 服務
-seo-description: Experience Platform Debugger 摘要畫面
-seo-title: 摘要畫面
-title: 摘要畫面
+seo-description: Experience Platform Debugger Summary Screen
+seo-title: Summary Tab
 uuid: 46b17eaa-b611-43cf-8c6a-67b2e9b9d940
 exl-id: 91234125-15c4-4111-9ee4-f3af093a3c4d
-source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
+source-git-commit: 220746028a55f613ae45f31cb74d5da3e187f374
 workflow-type: tm+mt
-source-wordcount: '979'
-ht-degree: 100%
+source-wordcount: '916'
+ht-degree: 75%
 
 ---
 
-# 摘要畫面{#summary-screen}
+# 摘要頁籤
 
->[!IMPORTANT]
->
->Adobe Experience Platform Debugger 目前仍在測試階段。文件和功能可能會有所變更。
-
-若要執行 Adobe Experience Platform Debugger，請按一下瀏覽器列上的圖示，然後在瀏覽器中開啟您要檢查的頁面。
-
-![](assets/start-icon.jpg)
-
-Adobe Experience Platform Debugger 的「摘要」畫面會隨即顯示。
+要運行Adobe Experience Platform調試器，請開啟要在瀏覽器中檢查的頁面，然後選擇表徵圖(![](assets/start-icon.jpg))。 在 **摘要** 頁籤。
 
 ![](assets/summary.jpg)
 
@@ -79,13 +71,13 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
  </tbody> 
 </table>
 
-**Adobe Experience Platform Launch**
+**Adobe Experience Platform標籤**
 
 <table id="table_E9574975444A407887E26514D1BB1601"> 
  <tbody> 
   <tr> 
    <td colname="col1"> <p>名稱 </p> </td> 
-   <td colname="col2"> <p>Platform Launch <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/admin/companies-and-properties.html" format="https" scope="external">屬性</a>名稱 </p> </td> 
+   <td colname="col2"> <p>標籤的名稱 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/admin/companies-and-properties.html" format="https" scope="external"> 屬性</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
@@ -93,11 +85,11 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
   </tr> 
   <tr> 
    <td colname="col1"> <p>建置日期 </p> </td> 
-   <td colname="col2"> <p>Platform Launch<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/libraries.html" format="https" scope="external"> 程式庫</a>建置日期 </p> </td> 
+   <td colname="col2"> <p>標籤 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/libraries.html" format="https" scope="external"> 庫</a> 生成日期 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>環境 </p> </td> 
-   <td colname="col2"> <p>Platform Launch 程式庫使用的<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/reference/publish/environments.html" format="https" scope="external">環境</a> </p> </td> 
+   <td colname="col2"> <p>的 <a href="https://experienceleague.adobe.com/docs/experience-platform/tags/publish/environments/environments.html" format="https" scope="external"> 環境</a> 由標籤庫使用 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>擴充功能 </p> </td> 
@@ -112,7 +104,7 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>程式庫版本 </p> </td> 
-   <td colname="col2"> <p>Adobe Experience Platform Web SDK <a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/extensions-ref/adobe-extension/aep-extension/overview.html" format="html" scope="external">程式庫版本</a>號碼 </p> </td> 
+   <td colname="col2"> <p>Adobe Experience Platform Web SDK <a href="https://experienceleague.adobe.com/docs/experience-platform/edge/extension/web-sdk-ext-release-notes.html" format="html" scope="external">程式庫版本</a>號碼 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>命名空間</p> </td> 
@@ -120,7 +112,7 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
   </tr> 
   <tr> 
    <td colname="col1"> <p>屬性 ID </p> </td> 
-   <td colname="col2"> <p>擴充功能中指定的 Platform Launch 屬性名稱 </p> </td> 
+   <td colname="col2"> <p>擴展中指定的標籤屬性的名稱 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>邊緣網域 </p> </td> 
@@ -158,47 +150,47 @@ Experience Platform Debugger 針對各個解決方案顯示的資訊如下：
  <tbody> 
   <tr> 
    <td colname="col1"> <p>用戶端代碼 </p> </td> 
-   <td colname="col2"> <p>您的 Target <a href="https://docs.adobe.com/content/help/zh-Hant/target/using/implement-target/client-side/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">用戶端代碼</a> </p> </td> 
+   <td colname="col2"> <p>您的 Target <a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/at-js-implementation/deploy-at-js/implementing-target-without-a-tag-manager.html" format="html" scope="external">用戶端代碼</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>版本 </p> </td> 
-   <td colname="col2"> <p>您目前的 <a href="https://docs.adobe.com/content/help/zh-Hant/target/using/implement-target/client-side/target-atjs-versions.html" format="html" scope="external">at.js</a> 或 mbox.js 版本 </p> </td> 
+   <td colname="col2"> <p>您目前的 <a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/at-js-implementation/target-atjs-versions.html" format="html" scope="external">at.js</a> 或 mbox.js 版本 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>全域請求名稱 </p> </td> 
-   <td colname="col2"> <p><a href="https://docs.adobe.com/help/zh-Hant/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">全域 mbox</a> 是指 Target 實作中各網頁頂端所發出的單一伺服器呼叫 </p> </td> 
+   <td colname="col2"> <p><a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/global-mbox/understanding-global-mbox.html" format="html" scope="external">全域 mbox</a> 是指 Target 實作中各網頁頂端所發出的單一伺服器呼叫 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>頁面載入事件 </p> </td> 
-   <td colname="col2"> <p>頁面載入時觸發的<a href="https://docs.adobe.com/content/help/zh-Hant/launch/using/extensions-ref/adobe-extension/target-extension/overview.html" format="html" scope="external">事件</a>類型 </p> </td> 
+   <td colname="col2"> <p>頁面載入時觸發的<a href="https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html" format="html" scope="external">事件</a>類型 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>請求名稱 </p> </td> 
-   <td colname="col2"> <p>頁面上某個<a href="https://docs.adobe.com/content/help/zh-Hant/target/using/implement-target/client-side/mbox-implement/global-mbox/understanding-global-mbox.html" format="html" scope="external">位置</a>周圍的請求名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/zh-Hant/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>頁面上某個<a href="https://experienceleague.adobe.com/docs/target/using/implement-target/client-side/global-mbox/understanding-global-mbox.html" format="html" scope="external">位置</a>周圍的請求名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>活動名稱 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hant/target/using/activities/activities.html" format="html" scope="external">促銷活動或活動</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://experienceleague.adobe.com/docs/target/using/activities/activities.html" format="html" scope="external">促銷活動或活動</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>活動 ID </p> </td> 
-   <td colname="col2"> <p>Target 活動 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>Target 活動 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>體驗名稱 </p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hant/target/using/experiences/experiences.html" format="html" scope="external">體驗</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html" format="html" scope="external">體驗</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>體驗 ID </p> </td> 
-   <td colname="col2"> <p>Target 體驗 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>Target 體驗 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>優惠方案名稱</p> </td> 
-   <td colname="col2"> <p>Target <a href="https://docs.adobe.com/content/help/zh-Hant/target/using/experiences/offers/manage-content.html" format="html" scope="external">選件</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>Target <a href="https://experienceleague.adobe.com/docs/target/using/experiences/offers/manage-content.html" format="html" scope="external">選件</a>的名稱。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>選件 ID </p> </td> 
-   <td colname="col2"> <p>Target 選件 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://docs.adobe.com/content/help/en/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
+   <td colname="col2"> <p>Target 選件 ID。只有當您在程式碼或 Tag Manager 中實作 Debugging 事件監聽器，並在 Target UI 中開啟必要的<a href="https://experienceleague.adobe.com/docs/target/using/administer/response-tokens.html" format="html" scope="external">回應 Token</a> 時，才能無須驗證即可取得。 </p> </td> 
   </tr> 
  </tbody> 
 </table>
