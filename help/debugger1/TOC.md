@@ -9,8 +9,8 @@ user-guide-description: 檢查您的網頁是否有 Experience Cloud 解決方�
 breadcrumb-title: Debugger 指南
 source-git-commit: b2298a5923c246fb6394af6bee76a8f24ea5ddd9
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 # Experience Cloud Debugger 說明 {#using}
 
 + [Adobe Experience Cloud Debugger 擴充功能](experience-cloud-debugger.md)
-+ [發行說明](release-notes.md)
++ [版本注意事項](release-notes.md)
 + [安裝 Experience Cloud Debugger](install-debugger.md)
 + [摘要畫面](run-debugger.md)
 + [網路資訊](network.md)
