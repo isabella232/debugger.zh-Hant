@@ -3,7 +3,7 @@ description: Experience Cloud Debugger 記錄畫面
 keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；記錄檔
 seo-description: Experience Cloud Debugger Logs screen
 seo-title: Logs
-title: 日誌(DTM)
+title: 記錄檔(DTM)
 uuid: 8ce5fb57-c417-4674-864d-b7c03639a531
 exl-id: 6d015129-8ac3-411e-829c-8f58ec1fdde3
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303

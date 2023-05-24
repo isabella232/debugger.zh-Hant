@@ -3,7 +3,7 @@ description: 使用 Adobe Debugger 中的解決方案標籤
 keywords: Debugger;Experience Cloud Debugger 擴充功能;Chrome;擴充功能;摘要;清除;要求;解決方案;解決方案;資訊;Analytics;Target;Audience Manager;Media Optimizer;AMO;ID 服務
 seo-description: Using the Solution tabs in Adobe Debugger
 seo-title: Solution Tabs in Adobe Debugger
-title: 解決方案頁籤在Experience Cloud Debugger
+title: Experience Cloud Debugger中的解決方案標籤
 uuid: 5e999ef2-6399-4ab5-a841-3a839d081728
 exl-id: 1364e3df-4eba-4270-9b58-1bf397f29a60
 source-git-commit: 2778ba78de3350ed1da01d452e303476b04c0303
@@ -69,7 +69,7 @@ Analytics 標籤會提供您的 [Analytics](https://docs.adobe.com/content/help/
 
 按一下「**[!UICONTROL Clear All Requests]**」，移除目前顯示的請求。將會在發出更多請求時顯示。
 
-您也可以使用 Target 篩選器來[啟用 Target 除錯用途的 MBox 追蹤](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)。
+您也可以使用 Target 篩選器來[啟用 Target 除錯用途的 MBox 追蹤](https://docs.adobe.com/content/help/zh-Hant/target/using/activities/troubleshoot-activities/content-trouble.html)。
 
 您必須有一個通過 Experience Cloud 驗證的已開啟 Chrome 標籤，才能啟用 Mbox 追蹤。啟用後，就會顯示您的 Adobe ID 使用者名稱。展開您的使用者名稱，顯示與您可存取之 Experience Cloud 組織相關聯的 Target 用戶端代碼。按一下您要啟用 Mbox 追蹤的用戶端代碼，並確認綠色勾號是否出現。現在將會顯示含有 Mbox 追蹤資訊的所有 Target 請求 (依用戶端代碼分組)。若要探索 Mbox 追蹤資訊，請展開請求以查看標籤：
 
@@ -77,7 +77,7 @@ Analytics 標籤會提供您的 [Analytics](https://docs.adobe.com/content/help/
 
 * 請求
 
-   [Mbox 追蹤](https://docs.adobe.com/content/help/en/target/using/activities/troubleshoot-activities/content-trouble.html)的請求標籤與主要請求標籤類似。除了請求標題以外，您還可以檢視 Target 請求傳遞的所有參數。
+   [Mbox 追蹤](https://docs.adobe.com/content/help/zh-Hant/target/using/activities/troubleshoot-activities/content-trouble.html)的請求標籤與主要請求標籤類似。除了請求標題以外，您還可以檢視 Target 請求傳遞的所有參數。
 * 設定檔
 
    展開設定檔快照以查看儲存的[設定檔資訊](https://docs.adobe.com/content/help/zh-Hant/target/using/audiences/visitor-profiles/variables-profiles-parameters-methods.html)，瞭解您在 Target 設定檔資料庫中身為訪客的相關資訊。這裡會顯示所有 mbox 內和指令碼設定檔，以及一些系統設定檔。狀態欄會顯示哪些設定檔已在此請求範圍內變更，及其在請求進入設定檔系統前/後的值。

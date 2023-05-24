@@ -1,14 +1,14 @@
 ---
 description: Experience Cloud Debugger 工具畫面
 keywords: Debugger；Experience Cloud Debugger 擴充功能；Chrome；擴充功能；工具；DTM；Target
-seo-description: Experience Cloud Debugger 工具畫面
-seo-title: 工具
+seo-description: Experience Cloud Debugger Tools screen
+seo-title: Tools
 title: 工具
 uuid: ea3fe1ea-e936-4c5a-8a43-b830d1b75038
 exl-id: ad108515-030f-4790-a29c-70f82e58a55d
 source-git-commit: 8672a623442e5a0daa10597a4a93631131221fec
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '396'
 ht-degree: 100%
 
 ---

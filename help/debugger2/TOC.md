@@ -10,8 +10,8 @@ breadcrumb-title: Platform Debugger 指南
 index: true
 source-git-commit: b4f705ad457ff5841f1610a01e2e8e40cd54f894
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 81%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 # Experience Platform Debugger 說明 {#using-v2}
 
 * [Adobe Experience Platform Debugger 擴充功能](experience-cloud-debugger.md)
-* [版本注意事項](release-notes.md)
+* [發行說明](release-notes.md)
 * [安裝 Experience Platform Debugger](install-debugger.md)
 * [設定 Experience Platform Debugger](configure-debugger.md)
 * [摘要畫面](summary.md)
@@ -29,7 +29,7 @@ ht-degree: 0%
 * [活動](events.md)
 * Auditor {#auditor}
    * [總覽](./auditor/overview.md)
-   * [標籤一致性test](./auditor/tag-consistency.md)
-   * [標籤存在test](./auditor/tag-presence.md)
-   * [配置test](./auditor/configuration.md)
-   * [警報test](./auditor/alerts.md)
+   * [標籤一致性測試](./auditor/tag-consistency.md)
+   * [標籤存在性測試](./auditor/tag-presence.md)
+   * [設定測試](./auditor/configuration.md)
+   * [警示測試](./auditor/alerts.md)
